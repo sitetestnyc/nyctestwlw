@@ -1,0 +1,102 @@
+<!DOCTYPE html>
+<html>
+<head>
+ <meta name="viewport" content="initial-scale=1.0">
+    <meta charset="utf-8">
+<title>NYC Public Advocate Landlord Watchlist</title>
+<!--[if IE]><script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script><![endif]-->
+<link rel="stylesheet" type="text/css" href="../css/5863.css" />
+
+</head>
+<body onload="initialize()">
+    <div id="wrapper">
+        <div class="headerwrap">
+        <div class="header">
+            	
+		
+	
+				<a href="http://advocate.nyc.gov/">
+				<img src="tishlogo.png" alt="logo" />
+                </a>
+          
+			
+			
+            <div class="fright">
+			<ul>
+			
+               <li><a href="http://advocate.nyc.gov/landlord-watchlist/tenant-rights" title="">Tenants' Rights</a></li>
+               <li><a href="http://advocate.nyc.gov/landlord-watchlist/landlord-resources" title="">Landlord Resources</a></li>
+             <li>  <a href="http://advocate.nyc.gov/landlord-watchlist/criteria" title="">About the Watchlist</a></li>
+			
+				</ul>
+                       </div>
+					   
+					  
+        </div>
+		
+        
+		
+						
+						   <div class="nav">
+						<ul>		
+<li><a href="index">Landlords</a></li>	
+							<li><a href="buildings">Buildings</a></li>
+														<li><a href="map">Map</a></li>
+
+					
+														
+							<li><a>Boro</a>
+							<ul>
+							<li><a href="statenis">Staten Island</a></li>
+								<li><a href="brooklyn">Brooklyn</a></li>
+								<li><a href="queens">Queens</a></li>
+							<li><a href="manhattan">Manhattan</a></li>
+							<li><a href="bronx">Bronx</a></li>
+							</ul>
+							</li>
+							<li><a href="search">Search</a></li>
+
+						</ul>
+						</div>
+       <div id="navigationwrap">
+            <div class="navigation">
+                <p>The <g>100 Worst Landlords</g> in New York City</p>
+               
+            </div>
+			</div>
+			</div>
+  
+        <div class="contentwrap">
+
+            <div id="scrollDiv" style="height:100%; width:100%;">
+	
+					  
+					 
+		
+					
+				           		
+				           		
+				           		 
+				         		 
+						 
+
+                </div>
+        </div>
+	
+    
+	    <script type="text/javascript" src="http://code.jquery.com/jquery-latest.min.js"></script>    
+  <script src="map.js"></script>
+	 <script async defer
+      src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCEdL7GSizXOkrhG1vJWSRro4wlyqo5kdU">
+    </script>
+	    <script src="hotels.js"></script>
+
+        <div id="footerwrap">
+        <div id="footer">
+            <p>This is the Footer</p>
+        </div>
+        </div>
+    </div>
+	
+</body>
+</html>
