@@ -25302,7 +25302,7 @@ for (i=0; i < hotels.length; i++)
 	var x = Number(aunits) + Number(bunits);
 	units = '<div class="pnum">Number of Units <g>' + hotels[i].UNITS + '</g></div>';
   hpd = '<div class="pnum">Number of HPD Violations <d>' + hotels[i].num + '</d></div>';
-  dob = '<div class="pnum">Number of DOB and ECB Violations <d>' + hotels[i].dob + '</d></div>';
+  dob = '<div class="pnum">Number of DOB Violations <d>' + hotels[i].dob + '</d></div>';
   hc = '<div class="pnum">Number of Housing Court Actions <d>' + hotels[i].housingCourt + '</d></div>';
   name = '<headll>' + hotels[i].officer + '<headll>';
   map = '<div id="' + hotels[i].DIVH + '" style="top: 10px; left: 25px; width:100%; height:85%; float: left"></div>';
