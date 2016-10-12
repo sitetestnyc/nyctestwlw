@@ -335,11 +335,18 @@ padding:5px;
 	width:100%;
 	padding:.5%;
 }
+.nav g{
+	float:left;
+	position:inline-block;
+	padding:10px;
+	 font: 24px Arial Narrow;
+	 color:white;
+	 font-weight:700;
+}
 .nav ul {
 		overflow:visible !important; 
 	color:white;
   text-align: right;
-  	float:right;
 width:100%;
   display: inline;
   margin: 0;
@@ -349,7 +356,7 @@ width:100%;
   box-shadow: 0 0 5px rgba(0, 0, 0, 0.15);
 }
 .nav ul li {
-		overflow:visible !important; 
+		float:right;
 color:white;
   font: 24px Arial Narrow;
   display: inline-block;
@@ -390,6 +397,7 @@ color:white;
 .nav ul li ul li { 
 	overflow:visible !important; 
 z-index: 1;
+width:100%;
   background: #555; 
   display: block; 
   color: #fff;
@@ -3492,19 +3500,48 @@ margin-right:auto;
 	margin-left:auto;
 margin-right:auto;
   }
-  .col-md-12-head {
-	  
+ 
+    @media screen and (min-width: 761px){
+		 .col-md-12-head {
+	  color:white;
 	background:#333333;	
 	padding: 4px;
   }
-  
   .col-md-12-head headll{
 	  padding-left:10px;
-	color:white;		
 	font-size:30px;
 	position:center;
 
   }
+  }
+      @media screen and (max-width: 760){
+		   .col-md-12-head {
+	  
+	background:#333333;	
+	padding: 4px;
+  }
+  .col-md-12-head headll{
+	  padding-left:10px;
+	font-size:30px;
+	position:center;
+
+  }
+  }
+  
+      @media screen and (max-width: 480px){
+		   .col-md-12-head {
+	  
+	background:#333333;	
+	padding: 4px;
+  }
+  .col-md-12-head headll{
+	  padding-left:10px;
+	font-size:30px;
+	position:center;
+
+  }
+  }
+  
 
   /* line 55, ../bootstrap-sass/assets/stylesheets/bootstrap/mixins/_grid-framework.scss */
   .col-md-pull-0 {
