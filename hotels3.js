@@ -25324,7 +25324,13 @@ for (i=0; i < hotels.length; i++)
 
     for (var j = 0; j < markers.length; j++){
 	var data=markers[j];
-
+if (markers[j].DOF > 0)
+		{
+			var DOF2 = "Yes";
+		}
+		else{
+			DOF2= "No";
+		}
 		if(data.Rank == (i+1))
 		{
 		replaced = markers[j].StreetName.split(' ').join('+');
@@ -25340,14 +25346,15 @@ for (i=0; i < hotels.length; i++)
 		hc = '<div class="pnum">Number of Housing Court Actions <d>' + markers[j].housingCourt + '</d></div>';
 		name = '' + markers[j].officer + '';
 				var name2 = '<div class="pnum">Landlord: ' + markers[j].officer + '</div>';
-	
+		dof = '<div class="pnum">Tax lien sold in last two years: <d>' + DOF2 + '</d></div>';
+
 		map = '<div id="' + markers[j].DIVH + '" style="top: 10px; left: 25px; width:100%; height:85%; float: left"></div>';
 		lat = '' + markers[j].lat + ',' + markers[j].lng + '';
 			
 	
 	
 		var url = 'https://maps.googleapis.com/maps/api/streetview?size=600x400&location=' + addstring + '%20&fov=90&heading=235&pitch=0%20&key=AIzaSyCEdL7GSizXOkrhG1vJWSRro4wlyqo5kdU';
-		 box += '<div class="col-md-13"><div class="col-md-12-head"><headll>' + address + '</headll></div><div class="col-md-2"> <a href="map.html"><img class="img-responsive" alt="landlordmap" src="' + url + '"></a></div><div class="col-md-3"><div class="buildingRates"><span>' + Rank + '</span><span>' + name2 + '</span><span>' + org + '</span><span>' + units + '</span><span>' + hpd + '</span><span>' + dob + '</span></div></div></div>';
+		 box += '<div class="col-md-13"><div class="col-md-12-head"><headll>' + address + '</headll></div><div class="col-md-2"> <a href="map.html"><img class="img-responsive" alt="landlordmap" src="' + url + '"></a></div><div class="col-md-3"><div class="buildingRates"><span>' + Rank + '</span><span>' + name2 + '</span><span>' + org + '</span><span>' + units + '</span><span>' + hpd + '</span><span>' + dob + '</span><span>' + dof + '</span></div></div></div>';
 			
 		}
 	}

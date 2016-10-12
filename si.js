@@ -792,7 +792,13 @@ var org = "";
 
     for (var j = 0; j < markers.length; j++){
 	var data=markers[j];
-
+if (markers[j].DOF > 0)
+		{
+			var DOF2 = "Yes";
+		}
+		else{
+			DOF2= "No";
+		}
 		var box = "";
 		replaced = markers[j].StreetName.split(' ').join('+');
 		var lat = "";
@@ -803,11 +809,11 @@ var org = "";
 		addstring = '' + markers[j].HouseNumber + '+' + replaced + ',+' + markers[j].Boro + ',+NY+' + markers[j].Zip + ''
 		buildings = '<pnum>Number of Buildings ' + markers[j].buildings + '</pnum>';
 		hpd = '<div class="pnum">Number of HPD Violations <d>' + markers[j].num + '</d></div>';
-		dob = '<div class="pnum">Number of DOB and ECB Violations <d>' + markers[j].dob + '</d></div>';
+		dob = '<div class="pnum">Number of DOB Violations <d>' + markers[j].dob + '</d></div>';
 		hc = '<div class="pnum">Number of Housing Court Actions <d>' + markers[j].housingCourt + '</d></div>';
 		name = '' + markers[j].officer + '';
 				var name2 = '<div class="pnum">Landlord: ' + markers[j].officer + '</div>';
-	dof = '<div class="pnum">Number of DOF : <d>' + markers[j].DOF + '</d></div>';
+	dof = '<div class="pnum">Tax lien sold in last two years : <d>' + DOF2 + '</d></div>';
 		map = '<div id="' + markers[j].DIVH + '" style="top: 10px; left: 25px; width:100%; height:85%; float: left"></div>';
 		lat = '' + markers[j].lat + ',' + markers[j].lng + '';
 			
