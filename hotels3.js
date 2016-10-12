@@ -25336,7 +25336,7 @@ for (i=0; i < hotels.length; i++)
 		addstring = '' + markers[j].HouseNumber + '+' + replaced + ',+' + markers[j].Boro + ',+NY+' + markers[j].Zip + ''
 		buildings = '<pnum>Number of Buildings ' + markers[j].buildings + '</pnum>';
 		hpd = '<div class="pnum">Number of HPD Violations <d>' + markers[j].num + '</d></div>';
-		dob = '<div class="pnum">Number of DOB and ECB Violations <d>' + markers[j].dob + '</d></div>';
+		dob = '<div class="pnum">Number of DOB Violations <d>' + markers[j].dob + '</d></div>';
 		hc = '<div class="pnum">Number of Housing Court Actions <d>' + markers[j].housingCourt + '</d></div>';
 		name = '' + markers[j].officer + '';
 				var name2 = '<div class="pnum">Landlord: ' + markers[j].officer + '</div>';
