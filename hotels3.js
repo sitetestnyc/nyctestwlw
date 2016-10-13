@@ -18391,7 +18391,7 @@ var markers = [
    "DOF": "0"
  },
  {
-   "Rank": "61",
+   "LandlordRank": "61",
    "BuildingID": "46472",
    "LandlordID": "46472",
    "Boro": "BRONX",
@@ -18421,15 +18421,15 @@ var markers = [
    "OWNER1_FN": "JAY ",
    "officer": "JAY  DEUTCHMAN",
    "org": "143 FERNDALE AVENUE, LLC",
-   "lat": "42.9370842",
-   "lng": "-75.61070251",
+   "lat": "40.815659",
+   "lng": "-73.902443",
    "exclude": "0",
    "worstLandlord": "1",
    "UNITS": "9",
    "DOF": "0"
  },
  {
-   "Rank": "61",
+   "LandlordRank": "61",
    "BuildingID": "101317",
    "LandlordID": "46472",
    "Boro": "BRONX",
@@ -18459,8 +18459,8 @@ var markers = [
    "OWNER1_FN": "JAY ",
    "officer": "JAY  DEUTCHMAN",
    "org": "4462 PARK AVE PARTNERS LLC",
-   "lat": "40.853954",
-   "lng": "-73.895118",
+   "lat": "40.853955",
+   "lng": "-73.895117",
    "exclude": "0",
    "worstLandlord": "1",
    "UNITS": "13",
