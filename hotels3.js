@@ -6121,9 +6121,9 @@ var markers = [
    "BuildingID": "705874",
    "LandlordID": "206164",
    "Boro": "QUEENS",
-   "HouseNumber": "17-Oct",
-   "LowHouseNumber": "17-Oct",
-   "HighHouseNumber": "17-Oct",
+   "HouseNumber": "17",
+   "LowHouseNumber": "17",
+   "HighHouseNumber": "17",
    "StreetName": "WYCKOFF AVENUE",
    "StreetCode": "68490",
    "Zip": "11385",
@@ -25318,7 +25318,7 @@ var org = "";
 for (i=0; i < hotels.length; i++)
 
 {
-  Rank = '<headll>' + hotels[i].Rank + '</headll>';
+  Rank = '<headll><a id="target">' + hotels[i].Rank + '</a></headll>';
   name = '<headll>' + hotels[i].officer + '<headll>';
  				var box = "";
 
@@ -25339,7 +25339,7 @@ if (markers[j].DOF > 0)
 		org = '<div class="pnum">Organization: ' + markers[j].org + '</div>';
 		Rank = '<div class="pnum">Landlord Rank <g>' + markers[j].Rank + '</g></div>';
 		var	Rank2 = '<headll>' + markers[j].Rank + '. </headll>';
-		addstring = '' + markers[j].HouseNumber + '+' + replaced + ',+' + markers[j].Boro + ',+NY+' + markers[j].Zip + ''
+		addstring = '' + markers[j].HouseNumber + '+' + replaced + ',+' + markers[j].Boro + ',+' + markers[j].Zip + ''
 		buildings = '<pnum>Number of Buildings ' + markers[j].buildings + '</pnum>';
 		hpd = '<div class="pnum">Number of HPD Violations <d>' + markers[j].num + '</d></div>';
 		dob = '<div class="pnum">Number of DOB Violations <d>' + markers[j].dob + '</d></div>';
@@ -25359,7 +25359,7 @@ if (markers[j].DOF > 0)
 		}
 	}
 	
-	cajahotelHTML = '<div class="col-md-12"><div class="col-md-12-head"><headll>' + Rank2 + name + '</headll></div>' + box + '</div>';
+	cajahotelHTML = '<div class="col-md-12"><div id="landlord' + (i+1) + '"></div><div class="col-md-12-head"><headll>' + Rank2 + name + '</headll></div>' + box + '</div>';
 	
 
   hotelContainerHTML += cajahotelHTML;

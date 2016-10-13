@@ -23105,7 +23105,7 @@ var address = '' + markers[i].HouseNumber + ' ' + markers[i].StreetName + ' ' + 
 }
 
 var outputDiv = document.getElementById('contentwrap2');
-outputDiv.innerHTML = '<div class="container" role="main"><div class="faq"><input type="search" style="background-color: #ff8c1a;color:black;"value="" placeholder="Type your Address (e.g. 123 Wall St)" /><ul>' + hotelContainerHTML + '</ul><div class="faq__notfound"><p>This building is not on the Watchlist at this time because it does not meet our building selection criteria.<br><br> To report building maintenance issues, please dial 311. <br><br> If you are having persistent maintenance issues with your apartment, please contact the Public Advocate`s office. Send an email to gethelp@pubadvocate.nyc.gov</p></div></div></div>';
+outputDiv.innerHTML = '<div class="container" role="main"><div class="faq"><input type="search" style="background-color: #e67300;color:black;"value="" placeholder="" /><ul>' + hotelContainerHTML + '</ul><div class="faq__notfound"><p>This building is not on the Watchlist at this time because it does not meet our building selection criteria.<br><br> To report building maintenance issues, please dial 311. <br><br> If you are having persistent maintenance issues with your apartment, please contact the Public Advocate`s office. Send an email to gethelp@pubadvocate.nyc.gov</p></div></div></div>';
 
 
 

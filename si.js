@@ -806,7 +806,7 @@ if (markers[j].DOF > 0)
 		org = '<div class="pnum">Organization: ' + markers[j].org + '</div>';
 		Rank = '<div class="pnum">Landlord Rank <g>' + markers[j].Rank + '</g></div>';
 		var	Rank2 = '<headll>' + markers[j].Rank + '. </headll>';
-		addstring = '' + markers[j].HouseNumber + '+' + replaced + ',+' + markers[j].Boro + ',+NY+' + markers[j].Zip + ''
+		addstring = '' + markers[j].HouseNumber + '+' + replaced + ',+' + markers[j].Boro + ',+' + markers[j].Zip + ''
 		buildings = '<pnum>Number of Buildings ' + markers[j].buildings + '</pnum>';
 		hpd = '<div class="pnum">Number of HPD Violations <d>' + markers[j].num + '</d></div>';
 		dob = '<div class="pnum">Number of DOB Violations <d>' + markers[j].dob + '</d></div>';

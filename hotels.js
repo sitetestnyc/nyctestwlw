@@ -6121,9 +6121,9 @@ var markers = [
    "BuildingID": "705874",
    "LandlordID": "206164",
    "Boro": "QUEENS",
-   "HouseNumber": "17-Oct",
-   "LowHouseNumber": "17-Oct",
-   "HighHouseNumber": "17-Oct",
+   "HouseNumber": "17",
+   "LowHouseNumber": "17",
+   "HighHouseNumber": "17",
    "StreetName": "WYCKOFF AVENUE",
    "StreetCode": "68490",
    "Zip": "11385",
@@ -25318,7 +25318,7 @@ for (i=0; i < hotels.length; i++)
 	
 	
 	var url = 'https://maps.googleapis.com/maps/api/staticmap?size=650x300&maptype=roadmap%20' + lat + '&key=AIzaSyCEdL7GSizXOkrhG1vJWSRro4wlyqo5kdU';
-  cajahotelHTML = '<div class="col-md-13"><div class="col-md-12-head"><headll>' + Rank + name + '</headll></div><div class="col-md-2"> <a href="map.html"><img alt="landlordmap" src="' + url + '" center no-repeat></a></div><div class="col-md-3"><div class="buildingRates">' + buildings + '<br>' + units + '<br>' + hpd + '<br>' + dob + '</div></div></div>';
+  cajahotelHTML = '<div class="col-md-13"><div class="col-md-12-head"><headll><a href="file:///C:/Users/jkatt/Desktop/html/buildings.html#landlord' + (i+1) + '">' + Rank + name + '</a></headll></div><div class="col-md-2"> <a href="map.html"><img alt="landlordmap" src="' + url + '" center no-repeat></a></div><div class="col-md-3"><div class="buildingRates">' + buildings + '<br>' + units + '<br>' + hpd + '<br>' + dob + '</div></div></div>';
 
   hotelContainerHTML += cajahotelHTML;
 }
