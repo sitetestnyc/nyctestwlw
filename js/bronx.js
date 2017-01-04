@@ -740,32 +740,9 @@ var markers = [
    "DOF": "0"
  }
 ];
-	
-	var lng = "";
-	var count = "";
-	var pins = "";
-		
-		
-	
-var hotel = "";
-var Rank = "";
-var buildings = "";
-var aunits = "";
-var bunits = "";
-var units = "";
-var hpd = "";
-var dob = "";
-var hc = "";
-var name = "";
-var map = "";
-var cajahotelHTML = "";
-var hotelContainerHTML = "";
-	var lng = "";
-	var count = "";
-	var pins = "";
-		
-		
-	
+var lng = "";
+var count = "";
+var pins = "";
 var hotel = "";
 var Rank = "";
 var buildings = "";
@@ -783,7 +760,7 @@ var cajahotelHTML3 = "";
 var addstring = "";
 var hotelContainerHTML = "";
 var org = "";
-		var replaced = "";
+var replaced = "";
 
 
 
@@ -812,8 +789,8 @@ var org = "";
 		dob = '<div class="pnum">Number of DOB Violations <d>' + markers[j].dob + '</d></div>';
 		hc = '<div class="pnum">Number of Housing Court Actions <d>' + markers[j].housingCourt + '</d></div>';
 		name = '' + markers[j].officer + '';
-				var name2 = '<div class="pnum">Landlord: ' + markers[j].officer + '</div>';
-	dof = '<div class="pnum">Tax lien sold in last two years: <d>' + DOF2 + '</d></div>';
+		var name2 = '<div class="pnum">Landlord: ' + markers[j].officer + '</div>';
+		dof = '<div class="pnum">Tax lien sold in last two years: <d>' + DOF2 + '</d></div>';
 		map = '<div id="' + markers[j].DIVH + '" style="top: 10px; left: 25px; width:100%; height:85%; float: left"></div>';
 		lat = '' + markers[j].lat + ',' + markers[j].lng + '';
 			

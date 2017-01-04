@@ -740,13 +740,10 @@ var markers = [
    "DOF": "0"
  }
 ];
-	
-	var lng = "";
-	var count = "";
-	var pins = "";
-		
-		
-	
+var lat = "";
+var lng = "";
+var count = "";
+var pins = "";
 var hotel = "";
 var Rank = "";
 var buildings = "";
@@ -760,30 +757,11 @@ var name = "";
 var map = "";
 var cajahotelHTML = "";
 var hotelContainerHTML = "";
-	var lng = "";
-	var count = "";
-	var pins = "";
-		
-		
-	
-var hotel = "";
-var Rank = "";
-var buildings = "";
-var aunits = "";
-var bunits = "";
-var units = "";
-var hpd = "";
-var dob = "";
-var hc = "";
-var name = "";
-var map = "";
-var cajahotelHTML = "";
 var cajahotelHTML2 = "";
 var cajahotelHTML3 = "";
 var addstring = "";
-var hotelContainerHTML = "";
 var org = "";
-		var replaced = "";
+var replaced = "";
 
 
 
