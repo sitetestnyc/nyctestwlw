@@ -349,7 +349,7 @@ var hotels = [
    "Boro": "BROOKLYN",
    "officer": "JOEL  KOHN",
    "org": "312 BEDFORD LLC",
-   "UNITS": "158"
+   "UNITS": "155"
  },
  {
    "Rank": "17",
