@@ -339,7 +339,7 @@ var hotels = [
    "c": "64",
    "i": "1",
    "score": "4.24684",
-   "A_UNITS": "158",
+   "A_UNITS": "155",
    "B_UNITS": "0",
    "dob": "30",
    "dob_hpd": "729",
