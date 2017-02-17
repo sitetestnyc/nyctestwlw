@@ -332,7 +332,7 @@ var hotels = [
  {
    "Rank": "16",
    "LandlordId": "206164",
-   "buildings": "22",
+   "buildings": "21",
    "num": "715",
    "a": "135",
    "b": "515",
@@ -342,7 +342,7 @@ var hotels = [
    "A_UNITS": "158",
    "B_UNITS": "0",
    "dob": "30",
-   "dob_hpd": "745",
+   "dob_hpd": "729",
    "OWNER1": "312 BEDFORD LLC",
    "OWNER1_LN": "KOHN",
    "OWNER1_FN": "JOEL",
@@ -2200,7 +2200,7 @@ var hotels = [
    "UNITS": "25"
  }
 ]
-var markers = [
+var markers =[
  {
    "LandlordRank": "1",
    "BuildingID": "80987",
@@ -7669,44 +7669,6 @@ var markers = [
    "exclude": "0",
    "lat": "40.71376",
    "lng": "-73.9620132",
-   "worstLandlord": "1",
-   "UNTIS": "3",
-   "DOF": "0"
- },
- {
-   "LandlordRank": "16",
-   "BuildingID": "216160",
-   "LandlordID": "206164",
-   "Boro": "BROOKLYN",
-   "HouseNumber": "735",
-   "LowHouseNumber": "735",
-   "HighHouseNumber": "735",
-   "StreetName": "BUSHWICK AVENUE",
-   "StreetCode": "23930",
-   "Zip": "11221",
-   "Full Address": "735 BUSHWICK AVENUE 11221",
-   "Apartment": "3",
-   "Story": "3",
-   "num": "16",
-   "a": "4",
-   "b": "9",
-   "c": "2",
-   "i": "1",
-   "dob": "0",
-   "BIN": "3073370",
-   "dob_hpd": "16",
-   "score": "4",
-   "A_UNITS": "3",
-   "B_UNITS": "0",
-   "OWNER1": "737 BUSHWICK REALTY LLC",
-   "ORGANIZATION": "737 BUSHWICK REALTY LLC",
-   "OWNER1_LN": "KOHN",
-   "OWNER1_FN": "JOEL",
-   "officer": "JOEL  KOHN",
-   "org": "737 BUSHWICK REALTY LLC",
-   "exclude": "0",
-   "lat": "40.696266",
-   "lng": "-73.9297791",
    "worstLandlord": "1",
    "UNTIS": "3",
    "DOF": "0"
