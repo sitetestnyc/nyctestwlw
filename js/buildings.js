@@ -2203,7 +2203,7 @@ var hotels = [
 
 var markers = [
  {
-   "LandlordRank": "1",
+   "Rank": "1",
    "BuildingID": "80987",
    "LandlordID": "80987",
    "Boro": "BRONX",
@@ -2241,7 +2241,7 @@ var markers = [
    "DOF": "0"
  },
  {
-   "LandlordRank": "1",
+   "Rank": "1",
    "BuildingID": "183911",
    "LandlordID": "80987",
    "Boro": "BROOKLYN",
@@ -2279,7 +2279,7 @@ var markers = [
    "DOF": "0"
  },
  {
-   "LandlordRank": "1",
+   "Rank": "1",
    "BuildingID": "324119",
    "LandlordID": "80987",
    "Boro": "BROOKLYN",
@@ -2317,7 +2317,7 @@ var markers = [
    "DOF": "0"
  },
  {
-   "LandlordRank": "1",
+   "Rank": "1",
    "BuildingID": "345968",
    "LandlordID": "80987",
    "Boro": "BROOKLYN",
@@ -2355,7 +2355,7 @@ var markers = [
    "DOF": "0"
  },
  {
-   "LandlordRank": "1",
+   "Rank": "1",
    "BuildingID": "352378",
    "LandlordID": "80987",
    "Boro": "BROOKLYN",
@@ -2393,7 +2393,7 @@ var markers = [
    "DOF": "0"
  },
  {
-   "LandlordRank": "1",
+   "Rank": "1",
    "BuildingID": "448800",
    "LandlordID": "80987",
    "Boro": "QUEENS",
@@ -2431,7 +2431,7 @@ var markers = [
    "DOF": "0"
  },
  {
-   "LandlordRank": "1",
+   "Rank": "1",
    "BuildingID": "570984",
    "LandlordID": "80987",
    "Boro": "QUEENS",
@@ -2469,7 +2469,7 @@ var markers = [
    "DOF": "0"
  },
  {
-   "LandlordRank": "2",
+   "Rank": "2",
    "BuildingID": "50",
    "LandlordID": "50",
    "Boro": "MANHATTAN",
@@ -2507,7 +2507,7 @@ var markers = [
    "DOF": "0"
  },
  {
-   "LandlordRank": "2",
+   "Rank": "2",
    "BuildingID": "713",
    "LandlordID": "50",
    "Boro": "MANHATTAN",
@@ -2545,7 +2545,7 @@ var markers = [
    "DOF": "0"
  },
  {
-   "LandlordRank": "2",
+   "Rank": "2",
    "BuildingID": "853",
    "LandlordID": "50",
    "Boro": "MANHATTAN",
@@ -2583,7 +2583,7 @@ var markers = [
    "DOF": "0"
  },
  {
-   "LandlordRank": "2",
+   "Rank": "2",
    "BuildingID": "1615",
    "LandlordID": "50",
    "Boro": "MANHATTAN",
@@ -2621,7 +2621,7 @@ var markers = [
    "DOF": "0"
  },
  {
-   "LandlordRank": "2",
+   "Rank": "2",
    "BuildingID": "2321",
    "LandlordID": "50",
    "Boro": "MANHATTAN",
@@ -2659,7 +2659,7 @@ var markers = [
    "DOF": "0"
  },
  {
-   "LandlordRank": "2",
+   "Rank": "2",
    "BuildingID": "3175",
    "LandlordID": "50",
    "Boro": "MANHATTAN",
@@ -2697,7 +2697,7 @@ var markers = [
    "DOF": "0"
  },
  {
-   "LandlordRank": "2",
+   "Rank": "2",
    "BuildingID": "4815",
    "LandlordID": "50",
    "Boro": "MANHATTAN",
@@ -2735,7 +2735,7 @@ var markers = [
    "DOF": "0"
  },
  {
-   "LandlordRank": "2",
+   "Rank": "2",
    "BuildingID": "13773",
    "LandlordID": "50",
    "Boro": "MANHATTAN",
@@ -2773,7 +2773,7 @@ var markers = [
    "DOF": "0"
  },
  {
-   "LandlordRank": "2",
+   "Rank": "2",
    "BuildingID": "13944",
    "LandlordID": "50",
    "Boro": "MANHATTAN",
@@ -2811,7 +2811,7 @@ var markers = [
    "DOF": "0"
  },
  {
-   "LandlordRank": "2",
+   "Rank": "2",
    "BuildingID": "14032",
    "LandlordID": "50",
    "Boro": "MANHATTAN",
@@ -2849,7 +2849,7 @@ var markers = [
    "DOF": "0"
  },
  {
-   "LandlordRank": "2",
+   "Rank": "2",
    "BuildingID": "14709",
    "LandlordID": "50",
    "Boro": "MANHATTAN",
@@ -2887,7 +2887,7 @@ var markers = [
    "DOF": "0"
  },
  {
-   "LandlordRank": "2",
+   "Rank": "2",
    "BuildingID": "14711",
    "LandlordID": "50",
    "Boro": "MANHATTAN",
@@ -2925,7 +2925,7 @@ var markers = [
    "DOF": "0"
  },
  {
-   "LandlordRank": "2",
+   "Rank": "2",
    "BuildingID": "14712",
    "LandlordID": "50",
    "Boro": "MANHATTAN",
@@ -2963,7 +2963,7 @@ var markers = [
    "DOF": "0"
  },
  {
-   "LandlordRank": "2",
+   "Rank": "2",
    "BuildingID": "15765",
    "LandlordID": "50",
    "Boro": "MANHATTAN",
@@ -3001,7 +3001,7 @@ var markers = [
    "DOF": "0"
  },
  {
-   "LandlordRank": "2",
+   "Rank": "2",
    "BuildingID": "23769",
    "LandlordID": "50",
    "Boro": "MANHATTAN",
@@ -3039,7 +3039,7 @@ var markers = [
    "DOF": "0"
  },
  {
-   "LandlordRank": "2",
+   "Rank": "2",
    "BuildingID": "24334",
    "LandlordID": "50",
    "Boro": "MANHATTAN",
@@ -3077,7 +3077,7 @@ var markers = [
    "DOF": "0"
  },
  {
-   "LandlordRank": "2",
+   "Rank": "2",
    "BuildingID": "24589",
    "LandlordID": "50",
    "Boro": "MANHATTAN",
@@ -3115,7 +3115,7 @@ var markers = [
    "DOF": "0"
  },
  {
-   "LandlordRank": "2",
+   "Rank": "2",
    "BuildingID": "33308",
    "LandlordID": "50",
    "Boro": "MANHATTAN",
@@ -3153,7 +3153,7 @@ var markers = [
    "DOF": "0"
  },
  {
-   "LandlordRank": "2",
+   "Rank": "2",
    "BuildingID": "804585",
    "LandlordID": "50",
    "Boro": "MANHATTAN",
@@ -3191,7 +3191,7 @@ var markers = [
    "DOF": "0"
  },
  {
-   "LandlordRank": "2",
+   "Rank": "2",
    "BuildingID": "804590",
    "LandlordID": "50",
    "Boro": "MANHATTAN",
@@ -3229,7 +3229,7 @@ var markers = [
    "DOF": "0"
  },
  {
-   "LandlordRank": "2",
+   "Rank": "2",
    "BuildingID": "809565",
    "LandlordID": "50",
    "Boro": "BROOKLYN",
@@ -3267,7 +3267,7 @@ var markers = [
    "DOF": "0"
  },
  {
-   "LandlordRank": "3",
+   "Rank": "3",
    "BuildingID": "26997",
    "LandlordID": "26997",
    "Boro": "MANHATTAN",
@@ -3305,7 +3305,7 @@ var markers = [
    "DOF": "0"
  },
  {
-   "LandlordRank": "3",
+   "Rank": "3",
    "BuildingID": "28941",
    "LandlordID": "26997",
    "Boro": "MANHATTAN",
@@ -3343,7 +3343,7 @@ var markers = [
    "DOF": "0"
  },
  {
-   "LandlordRank": "3",
+   "Rank": "3",
    "BuildingID": "43336",
    "LandlordID": "26997",
    "Boro": "MANHATTAN",
@@ -3381,7 +3381,7 @@ var markers = [
    "DOF": "0"
  },
  {
-   "LandlordRank": "3",
+   "Rank": "3",
    "BuildingID": "45515",
    "LandlordID": "26997",
    "Boro": "BRONX",
@@ -3419,7 +3419,7 @@ var markers = [
    "DOF": "0"
  },
  {
-   "LandlordRank": "3",
+   "Rank": "3",
    "BuildingID": "95434",
    "LandlordID": "26997",
    "Boro": "BRONX",
@@ -3457,7 +3457,7 @@ var markers = [
    "DOF": "0"
  },
  {
-   "LandlordRank": "3",
+   "Rank": "3",
    "BuildingID": "119107",
    "LandlordID": "26997",
    "Boro": "BRONX",
@@ -3495,7 +3495,7 @@ var markers = [
    "DOF": "0"
  },
  {
-   "LandlordRank": "4",
+   "Rank": "4",
    "BuildingID": "1067",
    "LandlordID": "1067",
    "Boro": "MANHATTAN",
@@ -3533,7 +3533,7 @@ var markers = [
    "DOF": "0"
  },
  {
-   "LandlordRank": "4",
+   "Rank": "4",
    "BuildingID": "42418",
    "LandlordID": "1067",
    "Boro": "MANHATTAN",
@@ -3571,7 +3571,7 @@ var markers = [
    "DOF": "0"
  },
  {
-   "LandlordRank": "4",
+   "Rank": "4",
    "BuildingID": "49241",
    "LandlordID": "1067",
    "Boro": "BRONX",
@@ -3609,7 +3609,7 @@ var markers = [
    "DOF": "0"
  },
  {
-   "LandlordRank": "4",
+   "Rank": "4",
    "BuildingID": "338110",
    "LandlordID": "1067",
    "Boro": "BROOKLYN",
@@ -3647,7 +3647,7 @@ var markers = [
    "DOF": "0"
  },
  {
-   "LandlordRank": "5",
+   "Rank": "5",
    "BuildingID": "159478",
    "LandlordID": "159478",
    "Boro": "BROOKLYN",
@@ -3685,7 +3685,7 @@ var markers = [
    "DOF": "1"
  },
  {
-   "LandlordRank": "5",
+   "Rank": "5",
    "BuildingID": "198448",
    "LandlordID": "159478",
    "Boro": "BROOKLYN",
@@ -3723,7 +3723,7 @@ var markers = [
    "DOF": "1"
  },
  {
-   "LandlordRank": "5",
+   "Rank": "5",
    "BuildingID": "210672",
    "LandlordID": "159478",
    "Boro": "BROOKLYN",
@@ -3761,7 +3761,7 @@ var markers = [
    "DOF": "0"
  },
  {
-   "LandlordRank": "5",
+   "Rank": "5",
    "BuildingID": "216090",
    "LandlordID": "159478",
    "Boro": "BROOKLYN",
@@ -3799,7 +3799,7 @@ var markers = [
    "DOF": "0"
  },
  {
-   "LandlordRank": "5",
+   "Rank": "5",
    "BuildingID": "304966",
    "LandlordID": "159478",
    "Boro": "BROOKLYN",
@@ -3837,7 +3837,7 @@ var markers = [
    "DOF": "0"
  },
  {
-   "LandlordRank": "5",
+   "Rank": "5",
    "BuildingID": "314032",
    "LandlordID": "159478",
    "Boro": "BROOKLYN",
@@ -3875,7 +3875,7 @@ var markers = [
    "DOF": "0"
  },
  {
-   "LandlordRank": "5",
+   "Rank": "5",
    "BuildingID": "314355",
    "LandlordID": "159478",
    "Boro": "BROOKLYN",
@@ -3913,7 +3913,7 @@ var markers = [
    "DOF": "0"
  },
  {
-   "LandlordRank": "5",
+   "Rank": "5",
    "BuildingID": "314784",
    "LandlordID": "159478",
    "Boro": "BROOKLYN",
@@ -3951,7 +3951,7 @@ var markers = [
    "DOF": "0"
  },
  {
-   "LandlordRank": "5",
+   "Rank": "5",
    "BuildingID": "314933",
    "LandlordID": "159478",
    "Boro": "BROOKLYN",
@@ -3989,7 +3989,7 @@ var markers = [
    "DOF": "0"
  },
  {
-   "LandlordRank": "5",
+   "Rank": "5",
    "BuildingID": "334661",
    "LandlordID": "159478",
    "Boro": "BROOKLYN",
@@ -4027,7 +4027,7 @@ var markers = [
    "DOF": "0"
  },
  {
-   "LandlordRank": "5",
+   "Rank": "5",
    "BuildingID": "335768",
    "LandlordID": "159478",
    "Boro": "BROOKLYN",
@@ -4065,7 +4065,7 @@ var markers = [
    "DOF": "0"
  },
  {
-   "LandlordRank": "5",
+   "Rank": "5",
    "BuildingID": "367891",
    "LandlordID": "159478",
    "Boro": "BROOKLYN",
@@ -4103,7 +4103,7 @@ var markers = [
    "DOF": "0"
  },
  {
-   "LandlordRank": "5",
+   "Rank": "5",
    "BuildingID": "367893",
    "LandlordID": "159478",
    "Boro": "BROOKLYN",
@@ -4141,7 +4141,7 @@ var markers = [
    "DOF": "0"
  },
  {
-   "LandlordRank": "5",
+   "Rank": "5",
    "BuildingID": "367906",
    "LandlordID": "159478",
    "Boro": "BROOKLYN",
@@ -4179,7 +4179,7 @@ var markers = [
    "DOF": "0"
  },
  {
-   "LandlordRank": "5",
+   "Rank": "5",
    "BuildingID": "383101",
    "LandlordID": "159478",
    "Boro": "BROOKLYN",
@@ -4217,7 +4217,7 @@ var markers = [
    "DOF": "0"
  },
  {
-   "LandlordRank": "5",
+   "Rank": "5",
    "BuildingID": "389150",
    "LandlordID": "159478",
    "Boro": "BROOKLYN",
@@ -4255,7 +4255,7 @@ var markers = [
    "DOF": "0"
  },
  {
-   "LandlordRank": "5",
+   "Rank": "5",
    "BuildingID": "809618",
    "LandlordID": "159478",
    "Boro": "BROOKLYN",
@@ -4293,7 +4293,7 @@ var markers = [
    "DOF": "0"
  },
  {
-   "LandlordRank": "6",
+   "Rank": "6",
    "BuildingID": "63894",
    "LandlordID": "63894",
    "Boro": "BRONX",
@@ -4331,7 +4331,7 @@ var markers = [
    "DOF": "2"
  },
  {
-   "LandlordRank": "6",
+   "Rank": "6",
    "BuildingID": "85440",
    "LandlordID": "63894",
    "Boro": "BRONX",
@@ -4369,7 +4369,7 @@ var markers = [
    "DOF": "0"
  },
  {
-   "LandlordRank": "6",
+   "Rank": "6",
    "BuildingID": "198159",
    "LandlordID": "63894",
    "Boro": "BROOKLYN",
@@ -4407,7 +4407,7 @@ var markers = [
    "DOF": "0"
  },
  {
-   "LandlordRank": "6",
+   "Rank": "6",
    "BuildingID": "209483",
    "LandlordID": "63894",
    "Boro": "BROOKLYN",
@@ -4445,7 +4445,7 @@ var markers = [
    "DOF": "0"
  },
  {
-   "LandlordRank": "6",
+   "Rank": "6",
    "BuildingID": "210948",
    "LandlordID": "63894",
    "Boro": "BROOKLYN",
@@ -4483,7 +4483,7 @@ var markers = [
    "DOF": "0"
  },
  {
-   "LandlordRank": "6",
+   "Rank": "6",
    "BuildingID": "215874",
    "LandlordID": "63894",
    "Boro": "BROOKLYN",
@@ -4521,7 +4521,7 @@ var markers = [
    "DOF": "0"
  },
  {
-   "LandlordRank": "6",
+   "Rank": "6",
    "BuildingID": "250411",
    "LandlordID": "63894",
    "Boro": "BROOKLYN",
@@ -4559,7 +4559,7 @@ var markers = [
    "DOF": "0"
  },
  {
-   "LandlordRank": "6",
+   "Rank": "6",
    "BuildingID": "308759",
    "LandlordID": "63894",
    "Boro": "BROOKLYN",
@@ -4597,7 +4597,7 @@ var markers = [
    "DOF": "0"
  },
  {
-   "LandlordRank": "6",
+   "Rank": "6",
    "BuildingID": "339820",
    "LandlordID": "63894",
    "Boro": "BROOKLYN",
@@ -4635,7 +4635,7 @@ var markers = [
    "DOF": "0"
  },
  {
-   "LandlordRank": "6",
+   "Rank": "6",
    "BuildingID": "353032",
    "LandlordID": "63894",
    "Boro": "BROOKLYN",
@@ -4673,7 +4673,7 @@ var markers = [
    "DOF": "0"
  },
  {
-   "LandlordRank": "6",
+   "Rank": "6",
    "BuildingID": "363529",
    "LandlordID": "63894",
    "Boro": "BROOKLYN",
@@ -4711,7 +4711,7 @@ var markers = [
    "DOF": "0"
  },
  {
-   "LandlordRank": "6",
+   "Rank": "6",
    "BuildingID": "374139",
    "LandlordID": "63894",
    "Boro": "BROOKLYN",
@@ -4749,7 +4749,7 @@ var markers = [
    "DOF": "0"
  },
  {
-   "LandlordRank": "6",
+   "Rank": "6",
    "BuildingID": "374615",
    "LandlordID": "63894",
    "Boro": "BROOKLYN",
@@ -4787,7 +4787,7 @@ var markers = [
    "DOF": "0"
  },
  {
-   "LandlordRank": "6",
+   "Rank": "6",
    "BuildingID": "377237",
    "LandlordID": "63894",
    "Boro": "BROOKLYN",
@@ -4825,7 +4825,7 @@ var markers = [
    "DOF": "0"
  },
  {
-   "LandlordRank": "6",
+   "Rank": "6",
    "BuildingID": "379029",
    "LandlordID": "63894",
    "Boro": "BROOKLYN",
@@ -4863,7 +4863,7 @@ var markers = [
    "DOF": "0"
  },
  {
-   "LandlordRank": "6",
+   "Rank": "6",
    "BuildingID": "379420",
    "LandlordID": "63894",
    "Boro": "BROOKLYN",
@@ -4901,7 +4901,7 @@ var markers = [
    "DOF": "0"
  },
  {
-   "LandlordRank": "6",
+   "Rank": "6",
    "BuildingID": "380691",
    "LandlordID": "63894",
    "Boro": "BROOKLYN",
@@ -4939,7 +4939,7 @@ var markers = [
    "DOF": "0"
  },
  {
-   "LandlordRank": "6",
+   "Rank": "6",
    "BuildingID": "380913",
    "LandlordID": "63894",
    "Boro": "BROOKLYN",
@@ -4977,7 +4977,7 @@ var markers = [
    "DOF": "0"
  },
  {
-   "LandlordRank": "6",
+   "Rank": "6",
    "BuildingID": "396072",
    "LandlordID": "63894",
    "Boro": "BROOKLYN",
@@ -5015,7 +5015,7 @@ var markers = [
    "DOF": "0"
  },
  {
-   "LandlordRank": "6",
+   "Rank": "6",
    "BuildingID": "398039",
    "LandlordID": "63894",
    "Boro": "BROOKLYN",
@@ -5053,7 +5053,7 @@ var markers = [
    "DOF": "0"
  },
  {
-   "LandlordRank": "6",
+   "Rank": "6",
    "BuildingID": "697939",
    "LandlordID": "63894",
    "Boro": "QUEENS",
@@ -5091,7 +5091,7 @@ var markers = [
    "DOF": "0"
  },
  {
-   "LandlordRank": "7",
+   "Rank": "7",
    "BuildingID": "97492",
    "LandlordID": "97492",
    "Boro": "BRONX",
@@ -5129,7 +5129,7 @@ var markers = [
    "DOF": "0"
  },
  {
-   "LandlordRank": "7",
+   "Rank": "7",
    "BuildingID": "97493",
    "LandlordID": "97492",
    "Boro": "BRONX",
@@ -5167,7 +5167,7 @@ var markers = [
    "DOF": "0"
  },
  {
-   "LandlordRank": "7",
+   "Rank": "7",
    "BuildingID": "119101",
    "LandlordID": "97492",
    "Boro": "BRONX",
@@ -5205,7 +5205,7 @@ var markers = [
    "DOF": "0"
  },
  {
-   "LandlordRank": "7",
+   "Rank": "7",
    "BuildingID": "806197",
    "LandlordID": "97492",
    "Boro": "BRONX",
@@ -5243,7 +5243,7 @@ var markers = [
    "DOF": "0"
  },
  {
-   "LandlordRank": "8",
+   "Rank": "8",
    "BuildingID": "10018",
    "LandlordID": "10018",
    "Boro": "MANHATTAN",
@@ -5281,7 +5281,7 @@ var markers = [
    "DOF": "0"
  },
  {
-   "LandlordRank": "8",
+   "Rank": "8",
    "BuildingID": "20775",
    "LandlordID": "10018",
    "Boro": "MANHATTAN",
@@ -5319,7 +5319,7 @@ var markers = [
    "DOF": "0"
  },
  {
-   "LandlordRank": "8",
+   "Rank": "8",
    "BuildingID": "21306",
    "LandlordID": "10018",
    "Boro": "MANHATTAN",
@@ -5357,7 +5357,7 @@ var markers = [
    "DOF": "0"
  },
  {
-   "LandlordRank": "8",
+   "Rank": "8",
    "BuildingID": "26930",
    "LandlordID": "10018",
    "Boro": "MANHATTAN",
@@ -5395,7 +5395,7 @@ var markers = [
    "DOF": "0"
  },
  {
-   "LandlordRank": "8",
+   "Rank": "8",
    "BuildingID": "28316",
    "LandlordID": "10018",
    "Boro": "MANHATTAN",
@@ -5433,7 +5433,7 @@ var markers = [
    "DOF": "0"
  },
  {
-   "LandlordRank": "8",
+   "Rank": "8",
    "BuildingID": "42587",
    "LandlordID": "10018",
    "Boro": "MANHATTAN",
@@ -5471,7 +5471,7 @@ var markers = [
    "DOF": "0"
  },
  {
-   "LandlordRank": "8",
+   "Rank": "8",
    "BuildingID": "46229",
    "LandlordID": "10018",
    "Boro": "BRONX",
@@ -5509,7 +5509,7 @@ var markers = [
    "DOF": "0"
  },
  {
-   "LandlordRank": "8",
+   "Rank": "8",
    "BuildingID": "49165",
    "LandlordID": "10018",
    "Boro": "BRONX",
@@ -5547,7 +5547,7 @@ var markers = [
    "DOF": "0"
  },
  {
-   "LandlordRank": "8",
+   "Rank": "8",
    "BuildingID": "55314",
    "LandlordID": "10018",
    "Boro": "BRONX",
@@ -5585,7 +5585,7 @@ var markers = [
    "DOF": "0"
  },
  {
-   "LandlordRank": "8",
+   "Rank": "8",
    "BuildingID": "59238",
    "LandlordID": "10018",
    "Boro": "BRONX",
@@ -5623,7 +5623,7 @@ var markers = [
    "DOF": "0"
  },
  {
-   "LandlordRank": "8",
+   "Rank": "8",
    "BuildingID": "66731",
    "LandlordID": "10018",
    "Boro": "BRONX",
@@ -5661,7 +5661,7 @@ var markers = [
    "DOF": "0"
  },
  {
-   "LandlordRank": "8",
+   "Rank": "8",
    "BuildingID": "121328",
    "LandlordID": "10018",
    "Boro": "BRONX",
@@ -5699,7 +5699,7 @@ var markers = [
    "DOF": "0"
  },
  {
-   "LandlordRank": "9",
+   "Rank": "9",
    "BuildingID": "289624",
    "LandlordID": "289624",
    "Boro": "BROOKLYN",
@@ -5737,7 +5737,7 @@ var markers = [
    "DOF": "0"
  },
  {
-   "LandlordRank": "9",
+   "Rank": "9",
    "BuildingID": "326817",
    "LandlordID": "289624",
    "Boro": "BROOKLYN",
@@ -5775,7 +5775,7 @@ var markers = [
    "DOF": "0"
  },
  {
-   "LandlordRank": "9",
+   "Rank": "9",
    "BuildingID": "326943",
    "LandlordID": "289624",
    "Boro": "BROOKLYN",
@@ -5813,7 +5813,7 @@ var markers = [
    "DOF": "0"
  },
  {
-   "LandlordRank": "9",
+   "Rank": "9",
    "BuildingID": "351148",
    "LandlordID": "289624",
    "Boro": "BROOKLYN",
@@ -5851,7 +5851,7 @@ var markers = [
    "DOF": "0"
  },
  {
-   "LandlordRank": "9",
+   "Rank": "9",
    "BuildingID": "374981",
    "LandlordID": "289624",
    "Boro": "BROOKLYN",
@@ -5889,7 +5889,7 @@ var markers = [
    "DOF": "0"
  },
  {
-   "LandlordRank": "10",
+   "Rank": "10",
    "BuildingID": "55755",
    "LandlordID": "55755",
    "Boro": "BRONX",
@@ -5927,7 +5927,7 @@ var markers = [
    "DOF": "0"
  },
  {
-   "LandlordRank": "10",
+   "Rank": "10",
    "BuildingID": "111948",
    "LandlordID": "55755",
    "Boro": "BRONX",
@@ -5965,7 +5965,7 @@ var markers = [
    "DOF": "0"
  },
  {
-   "LandlordRank": "11",
+   "Rank": "11",
    "BuildingID": "209856",
    "LandlordID": "209856",
    "Boro": "BROOKLYN",
@@ -6003,7 +6003,7 @@ var markers = [
    "DOF": "0"
  },
  {
-   "LandlordRank": "11",
+   "Rank": "11",
    "BuildingID": "291153",
    "LandlordID": "209856",
    "Boro": "BROOKLYN",
@@ -6041,7 +6041,7 @@ var markers = [
    "DOF": "0"
  },
  {
-   "LandlordRank": "11",
+   "Rank": "11",
    "BuildingID": "299558",
    "LandlordID": "209856",
    "Boro": "BROOKLYN",
@@ -6079,7 +6079,7 @@ var markers = [
    "DOF": "0"
  },
  {
-   "LandlordRank": "11",
+   "Rank": "11",
    "BuildingID": "327539",
    "LandlordID": "209856",
    "Boro": "BROOKLYN",
@@ -6117,7 +6117,7 @@ var markers = [
    "DOF": "0"
  },
  {
-   "LandlordRank": "11",
+   "Rank": "11",
    "BuildingID": "339586",
    "LandlordID": "209856",
    "Boro": "BROOKLYN",
@@ -6155,7 +6155,7 @@ var markers = [
    "DOF": "0"
  },
  {
-   "LandlordRank": "11",
+   "Rank": "11",
    "BuildingID": "349472",
    "LandlordID": "209856",
    "Boro": "BROOKLYN",
@@ -6193,7 +6193,7 @@ var markers = [
    "DOF": "0"
  },
  {
-   "LandlordRank": "11",
+   "Rank": "11",
    "BuildingID": "349675",
    "LandlordID": "209856",
    "Boro": "BROOKLYN",
@@ -6231,7 +6231,7 @@ var markers = [
    "DOF": "0"
  },
  {
-   "LandlordRank": "11",
+   "Rank": "11",
    "BuildingID": "354057",
    "LandlordID": "209856",
    "Boro": "BROOKLYN",
@@ -6269,7 +6269,7 @@ var markers = [
    "DOF": "0"
  },
  {
-   "LandlordRank": "11",
+   "Rank": "11",
    "BuildingID": "354061",
    "LandlordID": "209856",
    "Boro": "BROOKLYN",
@@ -6307,7 +6307,7 @@ var markers = [
    "DOF": "0"
  },
  {
-   "LandlordRank": "11",
+   "Rank": "11",
    "BuildingID": "360243",
    "LandlordID": "209856",
    "Boro": "BROOKLYN",
@@ -6345,7 +6345,7 @@ var markers = [
    "DOF": "0"
  },
  {
-   "LandlordRank": "12",
+   "Rank": "12",
    "BuildingID": "28948",
    "LandlordID": "28948",
    "Boro": "MANHATTAN",
@@ -6383,7 +6383,7 @@ var markers = [
    "DOF": "0"
  },
  {
-   "LandlordRank": "12",
+   "Rank": "12",
    "BuildingID": "45514",
    "LandlordID": "28948",
    "Boro": "BRONX",
@@ -6421,7 +6421,7 @@ var markers = [
    "DOF": "0"
  },
  {
-   "LandlordRank": "12",
+   "Rank": "12",
    "BuildingID": "103014",
    "LandlordID": "28948",
    "Boro": "BRONX",
@@ -6459,7 +6459,7 @@ var markers = [
    "DOF": "0"
  },
  {
-   "LandlordRank": "12",
+   "Rank": "12",
    "BuildingID": "103753",
    "LandlordID": "28948",
    "Boro": "BRONX",
@@ -6497,7 +6497,7 @@ var markers = [
    "DOF": "0"
  },
  {
-   "LandlordRank": "12",
+   "Rank": "12",
    "BuildingID": "108439",
    "LandlordID": "28948",
    "Boro": "BRONX",
@@ -6535,7 +6535,7 @@ var markers = [
    "DOF": "0"
  },
  {
-   "LandlordRank": "13",
+   "Rank": "13",
    "BuildingID": "5602",
    "LandlordID": "5602",
    "Boro": "MANHATTAN",
@@ -6573,7 +6573,7 @@ var markers = [
    "DOF": "0"
  },
  {
-   "LandlordRank": "13",
+   "Rank": "13",
    "BuildingID": "5606",
    "LandlordID": "5602",
    "Boro": "MANHATTAN",
@@ -6611,7 +6611,7 @@ var markers = [
    "DOF": "0"
  },
  {
-   "LandlordRank": "13",
+   "Rank": "13",
    "BuildingID": "8148",
    "LandlordID": "5602",
    "Boro": "MANHATTAN",
@@ -6649,7 +6649,7 @@ var markers = [
    "DOF": "0"
  },
  {
-   "LandlordRank": "13",
+   "Rank": "13",
    "BuildingID": "27604",
    "LandlordID": "5602",
    "Boro": "MANHATTAN",
@@ -6687,7 +6687,7 @@ var markers = [
    "DOF": "0"
  },
  {
-   "LandlordRank": "13",
+   "Rank": "13",
    "BuildingID": "42954",
    "LandlordID": "5602",
    "Boro": "MANHATTAN",
@@ -6725,7 +6725,7 @@ var markers = [
    "DOF": "0"
  },
  {
-   "LandlordRank": "13",
+   "Rank": "13",
    "BuildingID": "43006",
    "LandlordID": "5602",
    "Boro": "MANHATTAN",
@@ -6763,7 +6763,7 @@ var markers = [
    "DOF": "0"
  },
  {
-   "LandlordRank": "14",
+   "Rank": "14",
    "BuildingID": "5842",
    "LandlordID": "5842",
    "Boro": "MANHATTAN",
@@ -6801,7 +6801,7 @@ var markers = [
    "DOF": "0"
  },
  {
-   "LandlordRank": "14",
+   "Rank": "14",
    "BuildingID": "56848",
    "LandlordID": "5842",
    "Boro": "BRONX",
@@ -6839,7 +6839,7 @@ var markers = [
    "DOF": "0"
  },
  {
-   "LandlordRank": "14",
+   "Rank": "14",
    "BuildingID": "64771",
    "LandlordID": "5842",
    "Boro": "BRONX",
@@ -6877,7 +6877,7 @@ var markers = [
    "DOF": "0"
  },
  {
-   "LandlordRank": "14",
+   "Rank": "14",
    "BuildingID": "66476",
    "LandlordID": "5842",
    "Boro": "BRONX",
@@ -6915,7 +6915,7 @@ var markers = [
    "DOF": "0"
  },
  {
-   "LandlordRank": "14",
+   "Rank": "14",
    "BuildingID": "92408",
    "LandlordID": "5842",
    "Boro": "BRONX",
@@ -6953,7 +6953,7 @@ var markers = [
    "DOF": "0"
  },
  {
-   "LandlordRank": "14",
+   "Rank": "14",
    "BuildingID": "94228",
    "LandlordID": "5842",
    "Boro": "BRONX",
@@ -6991,7 +6991,7 @@ var markers = [
    "DOF": "0"
  },
  {
-   "LandlordRank": "14",
+   "Rank": "14",
    "BuildingID": "107798",
    "LandlordID": "5842",
    "Boro": "BRONX",
@@ -7029,7 +7029,7 @@ var markers = [
    "DOF": "0"
  },
  {
-   "LandlordRank": "14",
+   "Rank": "14",
    "BuildingID": "267668",
    "LandlordID": "5842",
    "Boro": "BROOKLYN",
@@ -7067,7 +7067,7 @@ var markers = [
    "DOF": "0"
  },
  {
-   "LandlordRank": "14",
+   "Rank": "14",
    "BuildingID": "631578",
    "LandlordID": "5842",
    "Boro": "QUEENS",
@@ -7105,7 +7105,7 @@ var markers = [
    "DOF": "0"
  },
  {
-   "LandlordRank": "15",
+   "Rank": "15",
    "BuildingID": "208148",
    "LandlordID": "208148",
    "Boro": "BROOKLYN",
@@ -7143,7 +7143,7 @@ var markers = [
    "DOF": "0"
  },
  {
-   "LandlordRank": "15",
+   "Rank": "15",
    "BuildingID": "215817",
    "LandlordID": "208148",
    "Boro": "BROOKLYN",
@@ -7181,7 +7181,7 @@ var markers = [
    "DOF": "0"
  },
  {
-   "LandlordRank": "15",
+   "Rank": "15",
    "BuildingID": "231357",
    "LandlordID": "208148",
    "Boro": "BROOKLYN",
@@ -7219,7 +7219,7 @@ var markers = [
    "DOF": "0"
  },
  {
-   "LandlordRank": "15",
+   "Rank": "15",
    "BuildingID": "321755",
    "LandlordID": "208148",
    "Boro": "BROOKLYN",
@@ -7257,7 +7257,7 @@ var markers = [
    "DOF": "0"
  },
  {
-   "LandlordRank": "15",
+   "Rank": "15",
    "BuildingID": "339283",
    "LandlordID": "208148",
    "Boro": "BROOKLYN",
@@ -7295,7 +7295,7 @@ var markers = [
    "DOF": "0"
  },
  {
-   "LandlordRank": "15",
+   "Rank": "15",
    "BuildingID": "342527",
    "LandlordID": "208148",
    "Boro": "BROOKLYN",
@@ -7333,7 +7333,7 @@ var markers = [
    "DOF": "0"
  },
  {
-   "LandlordRank": "15",
+   "Rank": "15",
    "BuildingID": "350989",
    "LandlordID": "208148",
    "Boro": "BROOKLYN",
@@ -7371,7 +7371,7 @@ var markers = [
    "DOF": "0"
  },
  {
-   "LandlordRank": "15",
+   "Rank": "15",
    "BuildingID": "357823",
    "LandlordID": "208148",
    "Boro": "BROOKLYN",
@@ -7409,7 +7409,7 @@ var markers = [
    "DOF": "0"
  },
  {
-   "LandlordRank": "15",
+   "Rank": "15",
    "BuildingID": "357858",
    "LandlordID": "208148",
    "Boro": "BROOKLYN",
@@ -7447,7 +7447,7 @@ var markers = [
    "DOF": "0"
  },
  {
-   "LandlordRank": "15",
+   "Rank": "15",
    "BuildingID": "371768",
    "LandlordID": "208148",
    "Boro": "BROOKLYN",
@@ -7485,7 +7485,7 @@ var markers = [
    "DOF": "0"
  },
  {
-   "LandlordRank": "15",
+   "Rank": "15",
    "BuildingID": "385724",
    "LandlordID": "208148",
    "Boro": "BROOKLYN",
@@ -7523,7 +7523,7 @@ var markers = [
    "DOF": "0"
  },
  {
-   "LandlordRank": "15",
+   "Rank": "15",
    "BuildingID": "396329",
    "LandlordID": "208148",
    "Boro": "BROOKLYN",
@@ -7561,7 +7561,7 @@ var markers = [
    "DOF": "0"
  },
  {
-   "LandlordRank": "15",
+   "Rank": "15",
    "BuildingID": "945061",
    "LandlordID": "208148",
    "Boro": "BROOKLYN",
@@ -7599,7 +7599,7 @@ var markers = [
    "DOF": "0"
  },
  {
-   "LandlordRank": "15",
+   "Rank": "15",
    "BuildingID": "966640",
    "LandlordID": "208148",
    "Boro": "BROOKLYN",
@@ -7637,7 +7637,7 @@ var markers = [
    "DOF": "0"
  },
  {
-   "LandlordRank": "16",
+   "Rank": "16",
    "BuildingID": "206164",
    "LandlordID": "206164",
    "Boro": "BROOKLYN",
@@ -7675,7 +7675,7 @@ var markers = [
    "DOF": "0"
  },
  {
-   "LandlordRank": "16",
+   "Rank": "16",
    "BuildingID": "216215",
    "LandlordID": "206164",
    "Boro": "BROOKLYN",
@@ -7713,7 +7713,7 @@ var markers = [
    "DOF": "0"
  },
  {
-   "LandlordRank": "16",
+   "Rank": "16",
    "BuildingID": "231735",
    "LandlordID": "206164",
    "Boro": "BROOKLYN",
@@ -7751,7 +7751,7 @@ var markers = [
    "DOF": "0"
  },
  {
-   "LandlordRank": "16",
+   "Rank": "16",
    "BuildingID": "303875",
    "LandlordID": "206164",
    "Boro": "BROOKLYN",
@@ -7789,7 +7789,7 @@ var markers = [
    "DOF": "0"
  },
  {
-   "LandlordRank": "16",
+   "Rank": "16",
    "BuildingID": "303887",
    "LandlordID": "206164",
    "Boro": "BROOKLYN",
@@ -7827,7 +7827,7 @@ var markers = [
    "DOF": "0"
  },
  {
-   "LandlordRank": "16",
+   "Rank": "16",
    "BuildingID": "311043",
    "LandlordID": "206164",
    "Boro": "BROOKLYN",
@@ -7865,7 +7865,7 @@ var markers = [
    "DOF": "0"
  },
  {
-   "LandlordRank": "16",
+   "Rank": "16",
    "BuildingID": "317755",
    "LandlordID": "206164",
    "Boro": "BROOKLYN",
@@ -7903,7 +7903,7 @@ var markers = [
    "DOF": "0"
  },
  {
-   "LandlordRank": "16",
+   "Rank": "16",
    "BuildingID": "321371",
    "LandlordID": "206164",
    "Boro": "BROOKLYN",
@@ -7941,7 +7941,7 @@ var markers = [
    "DOF": "0"
  },
  {
-   "LandlordRank": "16",
+   "Rank": "16",
    "BuildingID": "326483",
    "LandlordID": "206164",
    "Boro": "BROOKLYN",
@@ -7979,7 +7979,7 @@ var markers = [
    "DOF": "0"
  },
  {
-   "LandlordRank": "16",
+   "Rank": "16",
    "BuildingID": "328314",
    "LandlordID": "206164",
    "Boro": "BROOKLYN",
@@ -8017,7 +8017,7 @@ var markers = [
    "DOF": "0"
  },
  {
-   "LandlordRank": "16",
+   "Rank": "16",
    "BuildingID": "331433",
    "LandlordID": "206164",
    "Boro": "BROOKLYN",
@@ -8055,7 +8055,7 @@ var markers = [
    "DOF": "0"
  },
  {
-   "LandlordRank": "16",
+   "Rank": "16",
    "BuildingID": "335599",
    "LandlordID": "206164",
    "Boro": "BROOKLYN",
@@ -8093,7 +8093,7 @@ var markers = [
    "DOF": "0"
  },
  {
-   "LandlordRank": "16",
+   "Rank": "16",
    "BuildingID": "335648",
    "LandlordID": "206164",
    "Boro": "BROOKLYN",
@@ -8131,7 +8131,7 @@ var markers = [
    "DOF": "0"
  },
  {
-   "LandlordRank": "16",
+   "Rank": "16",
    "BuildingID": "335853",
    "LandlordID": "206164",
    "Boro": "BROOKLYN",
@@ -8169,7 +8169,7 @@ var markers = [
    "DOF": "0"
  },
  {
-   "LandlordRank": "16",
+   "Rank": "16",
    "BuildingID": "346771",
    "LandlordID": "206164",
    "Boro": "BROOKLYN",
@@ -8207,7 +8207,7 @@ var markers = [
    "DOF": "0"
  },
  {
-   "LandlordRank": "16",
+   "Rank": "16",
    "BuildingID": "372014",
    "LandlordID": "206164",
    "Boro": "BROOKLYN",
@@ -8245,7 +8245,7 @@ var markers = [
    "DOF": "0"
  },
  {
-   "LandlordRank": "16",
+   "Rank": "16",
    "BuildingID": "375408",
    "LandlordID": "206164",
    "Boro": "BROOKLYN",
@@ -8283,7 +8283,7 @@ var markers = [
    "DOF": "0"
  },
  {
-   "LandlordRank": "16",
+   "Rank": "16",
    "BuildingID": "375530",
    "LandlordID": "206164",
    "Boro": "BROOKLYN",
@@ -8321,7 +8321,7 @@ var markers = [
    "DOF": "0"
  },
  {
-   "LandlordRank": "16",
+   "Rank": "16",
    "BuildingID": "377660",
    "LandlordID": "206164",
    "Boro": "BROOKLYN",
@@ -8359,7 +8359,7 @@ var markers = [
    "DOF": "0"
  },
  {
-   "LandlordRank": "16",
+   "Rank": "16",
    "BuildingID": "377667",
    "LandlordID": "206164",
    "Boro": "BROOKLYN",
@@ -8397,7 +8397,7 @@ var markers = [
    "DOF": "0"
  },
  {
-   "LandlordRank": "16",
+   "Rank": "16",
    "BuildingID": "705874",
    "LandlordID": "206164",
    "Boro": "QUEENS",
@@ -8435,7 +8435,7 @@ var markers = [
    "DOF": "0"
  },
  {
-   "LandlordRank": "17",
+   "Rank": "17",
    "BuildingID": "4871",
    "LandlordID": "4871",
    "Boro": "MANHATTAN",
@@ -8473,7 +8473,7 @@ var markers = [
    "DOF": "0"
  },
  {
-   "LandlordRank": "17",
+   "Rank": "17",
    "BuildingID": "6025",
    "LandlordID": "4871",
    "Boro": "MANHATTAN",
@@ -8511,7 +8511,7 @@ var markers = [
    "DOF": "0"
  },
  {
-   "LandlordRank": "17",
+   "Rank": "17",
    "BuildingID": "8104",
    "LandlordID": "4871",
    "Boro": "MANHATTAN",
@@ -8549,7 +8549,7 @@ var markers = [
    "DOF": "0"
  },
  {
-   "LandlordRank": "17",
+   "Rank": "17",
    "BuildingID": "9774",
    "LandlordID": "4871",
    "Boro": "MANHATTAN",
@@ -8587,7 +8587,7 @@ var markers = [
    "DOF": "0"
  },
  {
-   "LandlordRank": "17",
+   "Rank": "17",
    "BuildingID": "9778",
    "LandlordID": "4871",
    "Boro": "MANHATTAN",
@@ -8625,7 +8625,7 @@ var markers = [
    "DOF": "0"
  },
  {
-   "LandlordRank": "17",
+   "Rank": "17",
    "BuildingID": "27968",
    "LandlordID": "4871",
    "Boro": "MANHATTAN",
@@ -8663,7 +8663,7 @@ var markers = [
    "DOF": "0"
  },
  {
-   "LandlordRank": "17",
+   "Rank": "17",
    "BuildingID": "32983",
    "LandlordID": "4871",
    "Boro": "MANHATTAN",
@@ -8701,7 +8701,7 @@ var markers = [
    "DOF": "0"
  },
  {
-   "LandlordRank": "18",
+   "Rank": "18",
    "BuildingID": "53121",
    "LandlordID": "53121",
    "Boro": "BRONX",
@@ -8739,7 +8739,7 @@ var markers = [
    "DOF": "0"
  },
  {
-   "LandlordRank": "18",
+   "Rank": "18",
    "BuildingID": "70670",
    "LandlordID": "53121",
    "Boro": "BRONX",
@@ -8777,7 +8777,7 @@ var markers = [
    "DOF": "1"
  },
  {
-   "LandlordRank": "18",
+   "Rank": "18",
    "BuildingID": "77398",
    "LandlordID": "53121",
    "Boro": "BRONX",
@@ -8815,7 +8815,7 @@ var markers = [
    "DOF": "0"
  },
  {
-   "LandlordRank": "18",
+   "Rank": "18",
    "BuildingID": "304415",
    "LandlordID": "53121",
    "Boro": "BROOKLYN",
@@ -8853,7 +8853,7 @@ var markers = [
    "DOF": "1"
  },
  {
-   "LandlordRank": "18",
+   "Rank": "18",
    "BuildingID": "339577",
    "LandlordID": "53121",
    "Boro": "BROOKLYN",
@@ -8891,7 +8891,7 @@ var markers = [
    "DOF": "0"
  },
  {
-   "LandlordRank": "18",
+   "Rank": "18",
    "BuildingID": "349857",
    "LandlordID": "53121",
    "Boro": "BROOKLYN",
@@ -8929,7 +8929,7 @@ var markers = [
    "DOF": "0"
  },
  {
-   "LandlordRank": "18",
+   "Rank": "18",
    "BuildingID": "357398",
    "LandlordID": "53121",
    "Boro": "BROOKLYN",
@@ -8967,7 +8967,7 @@ var markers = [
    "DOF": "0"
  },
  {
-   "LandlordRank": "18",
+   "Rank": "18",
    "BuildingID": "357400",
    "LandlordID": "53121",
    "Boro": "BROOKLYN",
@@ -9005,7 +9005,7 @@ var markers = [
    "DOF": "0"
  },
  {
-   "LandlordRank": "18",
+   "Rank": "18",
    "BuildingID": "359426",
    "LandlordID": "53121",
    "Boro": "BROOKLYN",
@@ -9043,7 +9043,7 @@ var markers = [
    "DOF": "0"
  },
  {
-   "LandlordRank": "18",
+   "Rank": "18",
    "BuildingID": "373083",
    "LandlordID": "53121",
    "Boro": "BROOKLYN",
@@ -9081,7 +9081,7 @@ var markers = [
    "DOF": "0"
  },
  {
-   "LandlordRank": "18",
+   "Rank": "18",
    "BuildingID": "388116",
    "LandlordID": "53121",
    "Boro": "BROOKLYN",
@@ -9119,7 +9119,7 @@ var markers = [
    "DOF": "1"
  },
  {
-   "LandlordRank": "18",
+   "Rank": "18",
    "BuildingID": "881330",
    "LandlordID": "53121",
    "Boro": "BROOKLYN",
@@ -9157,7 +9157,7 @@ var markers = [
    "DOF": "0"
  },
  {
-   "LandlordRank": "18",
+   "Rank": "18",
    "BuildingID": "908891",
    "LandlordID": "53121",
    "Boro": "BROOKLYN",
@@ -9195,7 +9195,7 @@ var markers = [
    "DOF": "0"
  },
  {
-   "LandlordRank": "19",
+   "Rank": "19",
    "BuildingID": "66670",
    "LandlordID": "66670",
    "Boro": "BRONX",
@@ -9233,7 +9233,7 @@ var markers = [
    "DOF": "0"
  },
  {
-   "LandlordRank": "19",
+   "Rank": "19",
    "BuildingID": "73965",
    "LandlordID": "66670",
    "Boro": "BRONX",
@@ -9271,7 +9271,7 @@ var markers = [
    "DOF": "0"
  },
  {
-   "LandlordRank": "19",
+   "Rank": "19",
    "BuildingID": "74521",
    "LandlordID": "66670",
    "Boro": "BRONX",
@@ -9309,7 +9309,7 @@ var markers = [
    "DOF": "0"
  },
  {
-   "LandlordRank": "19",
+   "Rank": "19",
    "BuildingID": "96892",
    "LandlordID": "66670",
    "Boro": "BRONX",
@@ -9347,7 +9347,7 @@ var markers = [
    "DOF": "0"
  },
  {
-   "LandlordRank": "19",
+   "Rank": "19",
    "BuildingID": "222929",
    "LandlordID": "66670",
    "Boro": "BROOKLYN",
@@ -9385,7 +9385,7 @@ var markers = [
    "DOF": "0"
  },
  {
-   "LandlordRank": "19",
+   "Rank": "19",
    "BuildingID": "333256",
    "LandlordID": "66670",
    "Boro": "BROOKLYN",
@@ -9423,7 +9423,7 @@ var markers = [
    "DOF": "0"
  },
  {
-   "LandlordRank": "20",
+   "Rank": "20",
    "BuildingID": "3495",
    "LandlordID": "3495",
    "Boro": "MANHATTAN",
@@ -9461,7 +9461,7 @@ var markers = [
    "DOF": "0"
  },
  {
-   "LandlordRank": "20",
+   "Rank": "20",
    "BuildingID": "3536",
    "LandlordID": "3495",
    "Boro": "MANHATTAN",
@@ -9499,7 +9499,7 @@ var markers = [
    "DOF": "0"
  },
  {
-   "LandlordRank": "20",
+   "Rank": "20",
    "BuildingID": "6171",
    "LandlordID": "3495",
    "Boro": "MANHATTAN",
@@ -9537,7 +9537,7 @@ var markers = [
    "DOF": "0"
  },
  {
-   "LandlordRank": "20",
+   "Rank": "20",
    "BuildingID": "19488",
    "LandlordID": "3495",
    "Boro": "MANHATTAN",
@@ -9575,7 +9575,7 @@ var markers = [
    "DOF": "0"
  },
  {
-   "LandlordRank": "20",
+   "Rank": "20",
    "BuildingID": "38337",
    "LandlordID": "3495",
    "Boro": "MANHATTAN",
@@ -9613,7 +9613,7 @@ var markers = [
    "DOF": "0"
  },
  {
-   "LandlordRank": "20",
+   "Rank": "20",
    "BuildingID": "42882",
    "LandlordID": "3495",
    "Boro": "MANHATTAN",
@@ -9651,7 +9651,7 @@ var markers = [
    "DOF": "0"
  },
  {
-   "LandlordRank": "20",
+   "Rank": "20",
    "BuildingID": "803878",
    "LandlordID": "3495",
    "Boro": "MANHATTAN",
@@ -9689,7 +9689,7 @@ var markers = [
    "DOF": "0"
  },
  {
-   "LandlordRank": "20",
+   "Rank": "20",
    "BuildingID": "803879",
    "LandlordID": "3495",
    "Boro": "MANHATTAN",
@@ -9727,7 +9727,7 @@ var markers = [
    "DOF": "0"
  },
  {
-   "LandlordRank": "20",
+   "Rank": "20",
    "BuildingID": "803880",
    "LandlordID": "3495",
    "Boro": "MANHATTAN",
@@ -9765,7 +9765,7 @@ var markers = [
    "DOF": "0"
  },
  {
-   "LandlordRank": "20",
+   "Rank": "20",
    "BuildingID": "805865",
    "LandlordID": "3495",
    "Boro": "MANHATTAN",
@@ -9803,7 +9803,7 @@ var markers = [
    "DOF": "0"
  },
  {
-   "LandlordRank": "20",
+   "Rank": "20",
    "BuildingID": "805979",
    "LandlordID": "3495",
    "Boro": "MANHATTAN",
@@ -9841,7 +9841,7 @@ var markers = [
    "DOF": "0"
  },
  {
-   "LandlordRank": "21",
+   "Rank": "21",
    "BuildingID": "805709",
    "LandlordID": "805709",
    "Boro": "MANHATTAN",
@@ -9879,7 +9879,7 @@ var markers = [
    "DOF": "0"
  },
  {
-   "LandlordRank": "22",
+   "Rank": "22",
    "BuildingID": "29068",
    "LandlordID": "29068",
    "Boro": "MANHATTAN",
@@ -9917,7 +9917,7 @@ var markers = [
    "DOF": "0"
  },
  {
-   "LandlordRank": "22",
+   "Rank": "22",
    "BuildingID": "51000",
    "LandlordID": "29068",
    "Boro": "BRONX",
@@ -9955,7 +9955,7 @@ var markers = [
    "DOF": "0"
  },
  {
-   "LandlordRank": "22",
+   "Rank": "22",
    "BuildingID": "60439",
    "LandlordID": "29068",
    "Boro": "BRONX",
@@ -9993,7 +9993,7 @@ var markers = [
    "DOF": "0"
  },
  {
-   "LandlordRank": "22",
+   "Rank": "22",
    "BuildingID": "183916",
    "LandlordID": "29068",
    "Boro": "BROOKLYN",
@@ -10031,7 +10031,7 @@ var markers = [
    "DOF": "0"
  },
  {
-   "LandlordRank": "22",
+   "Rank": "22",
    "BuildingID": "247342",
    "LandlordID": "29068",
    "Boro": "BROOKLYN",
@@ -10069,7 +10069,7 @@ var markers = [
    "DOF": "0"
  },
  {
-   "LandlordRank": "23",
+   "Rank": "23",
    "BuildingID": "287492",
    "LandlordID": "287492",
    "Boro": "BROOKLYN",
@@ -10107,7 +10107,7 @@ var markers = [
    "DOF": "0"
  },
  {
-   "LandlordRank": "23",
+   "Rank": "23",
    "BuildingID": "376404",
    "LandlordID": "287492",
    "Boro": "BROOKLYN",
@@ -10145,7 +10145,7 @@ var markers = [
    "DOF": "0"
  },
  {
-   "LandlordRank": "23",
+   "Rank": "23",
    "BuildingID": "376447",
    "LandlordID": "287492",
    "Boro": "BROOKLYN",
@@ -10183,7 +10183,7 @@ var markers = [
    "DOF": "0"
  },
  {
-   "LandlordRank": "24",
+   "Rank": "24",
    "BuildingID": "49185",
    "LandlordID": "49185",
    "Boro": "BRONX",
@@ -10221,7 +10221,7 @@ var markers = [
    "DOF": "0"
  },
  {
-   "LandlordRank": "24",
+   "Rank": "24",
    "BuildingID": "66840",
    "LandlordID": "49185",
    "Boro": "BRONX",
@@ -10259,7 +10259,7 @@ var markers = [
    "DOF": "0"
  },
  {
-   "LandlordRank": "24",
+   "Rank": "24",
    "BuildingID": "84203",
    "LandlordID": "49185",
    "Boro": "BRONX",
@@ -10297,7 +10297,7 @@ var markers = [
    "DOF": "0"
  },
  {
-   "LandlordRank": "24",
+   "Rank": "24",
    "BuildingID": "94383",
    "LandlordID": "49185",
    "Boro": "BRONX",
@@ -10335,7 +10335,7 @@ var markers = [
    "DOF": "0"
  },
  {
-   "LandlordRank": "25",
+   "Rank": "25",
    "BuildingID": "46760",
    "LandlordID": "46760",
    "Boro": "BRONX",
@@ -10373,7 +10373,7 @@ var markers = [
    "DOF": "0"
  },
  {
-   "LandlordRank": "25",
+   "Rank": "25",
    "BuildingID": "73724",
    "LandlordID": "46760",
    "Boro": "BRONX",
@@ -10411,7 +10411,7 @@ var markers = [
    "DOF": "0"
  },
  {
-   "LandlordRank": "25",
+   "Rank": "25",
    "BuildingID": "90265",
    "LandlordID": "46760",
    "Boro": "BRONX",
@@ -10449,7 +10449,7 @@ var markers = [
    "DOF": "0"
  },
  {
-   "LandlordRank": "25",
+   "Rank": "25",
    "BuildingID": "96734",
    "LandlordID": "46760",
    "Boro": "BRONX",
@@ -10487,7 +10487,7 @@ var markers = [
    "DOF": "0"
  },
  {
-   "LandlordRank": "26",
+   "Rank": "26",
    "BuildingID": "12758",
    "LandlordID": "12758",
    "Boro": "MANHATTAN",
@@ -10525,7 +10525,7 @@ var markers = [
    "DOF": "0"
  },
  {
-   "LandlordRank": "26",
+   "Rank": "26",
    "BuildingID": "33540",
    "LandlordID": "12758",
    "Boro": "MANHATTAN",
@@ -10563,7 +10563,7 @@ var markers = [
    "DOF": "0"
  },
  {
-   "LandlordRank": "26",
+   "Rank": "26",
    "BuildingID": "33542",
    "LandlordID": "12758",
    "Boro": "MANHATTAN",
@@ -10601,7 +10601,7 @@ var markers = [
    "DOF": "0"
  },
  {
-   "LandlordRank": "26",
+   "Rank": "26",
    "BuildingID": "33543",
    "LandlordID": "12758",
    "Boro": "MANHATTAN",
@@ -10639,7 +10639,7 @@ var markers = [
    "DOF": "0"
  },
  {
-   "LandlordRank": "26",
+   "Rank": "26",
    "BuildingID": "33545",
    "LandlordID": "12758",
    "Boro": "MANHATTAN",
@@ -10677,7 +10677,7 @@ var markers = [
    "DOF": "0"
  },
  {
-   "LandlordRank": "26",
+   "Rank": "26",
    "BuildingID": "37005",
    "LandlordID": "12758",
    "Boro": "MANHATTAN",
@@ -10715,7 +10715,7 @@ var markers = [
    "DOF": "0"
  },
  {
-   "LandlordRank": "26",
+   "Rank": "26",
    "BuildingID": "222989",
    "LandlordID": "12758",
    "Boro": "BROOKLYN",
@@ -10753,7 +10753,7 @@ var markers = [
    "DOF": "0"
  },
  {
-   "LandlordRank": "26",
+   "Rank": "26",
    "BuildingID": "349864",
    "LandlordID": "12758",
    "Boro": "BROOKLYN",
@@ -10791,7 +10791,7 @@ var markers = [
    "DOF": "0"
  },
  {
-   "LandlordRank": "26",
+   "Rank": "26",
    "BuildingID": "374003",
    "LandlordID": "12758",
    "Boro": "BROOKLYN",
@@ -10829,7 +10829,7 @@ var markers = [
    "DOF": "0"
  },
  {
-   "LandlordRank": "26",
+   "Rank": "26",
    "BuildingID": "388017",
    "LandlordID": "12758",
    "Boro": "BROOKLYN",
@@ -10867,7 +10867,7 @@ var markers = [
    "DOF": "0"
  },
  {
-   "LandlordRank": "26",
+   "Rank": "26",
    "BuildingID": "807562",
    "LandlordID": "12758",
    "Boro": "BROOKLYN",
@@ -10905,7 +10905,7 @@ var markers = [
    "DOF": "0"
  },
  {
-   "LandlordRank": "27",
+   "Rank": "27",
    "BuildingID": "308743",
    "LandlordID": "308743",
    "Boro": "BROOKLYN",
@@ -10943,7 +10943,7 @@ var markers = [
    "DOF": "0"
  },
  {
-   "LandlordRank": "27",
+   "Rank": "27",
    "BuildingID": "311009",
    "LandlordID": "308743",
    "Boro": "BROOKLYN",
@@ -10981,7 +10981,7 @@ var markers = [
    "DOF": "0"
  },
  {
-   "LandlordRank": "27",
+   "Rank": "27",
    "BuildingID": "315728",
    "LandlordID": "308743",
    "Boro": "BROOKLYN",
@@ -11019,7 +11019,7 @@ var markers = [
    "DOF": "0"
  },
  {
-   "LandlordRank": "27",
+   "Rank": "27",
    "BuildingID": "327352",
    "LandlordID": "308743",
    "Boro": "BROOKLYN",
@@ -11057,7 +11057,7 @@ var markers = [
    "DOF": "0"
  },
  {
-   "LandlordRank": "27",
+   "Rank": "27",
    "BuildingID": "327376",
    "LandlordID": "308743",
    "Boro": "BROOKLYN",
@@ -11095,7 +11095,7 @@ var markers = [
    "DOF": "0"
  },
  {
-   "LandlordRank": "27",
+   "Rank": "27",
    "BuildingID": "327388",
    "LandlordID": "308743",
    "Boro": "BROOKLYN",
@@ -11133,7 +11133,7 @@ var markers = [
    "DOF": "0"
  },
  {
-   "LandlordRank": "27",
+   "Rank": "27",
    "BuildingID": "340178",
    "LandlordID": "308743",
    "Boro": "BROOKLYN",
@@ -11171,7 +11171,7 @@ var markers = [
    "DOF": "1"
  },
  {
-   "LandlordRank": "27",
+   "Rank": "27",
    "BuildingID": "355146",
    "LandlordID": "308743",
    "Boro": "BROOKLYN",
@@ -11209,7 +11209,7 @@ var markers = [
    "DOF": "0"
  },
  {
-   "LandlordRank": "27",
+   "Rank": "27",
    "BuildingID": "398275",
    "LandlordID": "308743",
    "Boro": "BROOKLYN",
@@ -11247,7 +11247,7 @@ var markers = [
    "DOF": "0"
  },
  {
-   "LandlordRank": "27",
+   "Rank": "27",
    "BuildingID": "806498",
    "LandlordID": "308743",
    "Boro": "BRONX",
@@ -11285,7 +11285,7 @@ var markers = [
    "DOF": "0"
  },
  {
-   "LandlordRank": "28",
+   "Rank": "28",
    "BuildingID": "210685",
    "LandlordID": "210685",
    "Boro": "BROOKLYN",
@@ -11323,7 +11323,7 @@ var markers = [
    "DOF": "0"
  },
  {
-   "LandlordRank": "28",
+   "Rank": "28",
    "BuildingID": "218623",
    "LandlordID": "210685",
    "Boro": "BROOKLYN",
@@ -11361,7 +11361,7 @@ var markers = [
    "DOF": "0"
  },
  {
-   "LandlordRank": "28",
+   "Rank": "28",
    "BuildingID": "307989",
    "LandlordID": "210685",
    "Boro": "BROOKLYN",
@@ -11399,7 +11399,7 @@ var markers = [
    "DOF": "0"
  },
  {
-   "LandlordRank": "28",
+   "Rank": "28",
    "BuildingID": "308772",
    "LandlordID": "210685",
    "Boro": "BROOKLYN",
@@ -11437,7 +11437,7 @@ var markers = [
    "DOF": "0"
  },
  {
-   "LandlordRank": "28",
+   "Rank": "28",
    "BuildingID": "308836",
    "LandlordID": "210685",
    "Boro": "BROOKLYN",
@@ -11475,7 +11475,7 @@ var markers = [
    "DOF": "0"
  },
  {
-   "LandlordRank": "28",
+   "Rank": "28",
    "BuildingID": "312861",
    "LandlordID": "210685",
    "Boro": "BROOKLYN",
@@ -11513,7 +11513,7 @@ var markers = [
    "DOF": "0"
  },
  {
-   "LandlordRank": "28",
+   "Rank": "28",
    "BuildingID": "315755",
    "LandlordID": "210685",
    "Boro": "BROOKLYN",
@@ -11551,7 +11551,7 @@ var markers = [
    "DOF": "0"
  },
  {
-   "LandlordRank": "28",
+   "Rank": "28",
    "BuildingID": "327680",
    "LandlordID": "210685",
    "Boro": "BROOKLYN",
@@ -11589,7 +11589,7 @@ var markers = [
    "DOF": "0"
  },
  {
-   "LandlordRank": "28",
+   "Rank": "28",
    "BuildingID": "335795",
    "LandlordID": "210685",
    "Boro": "BROOKLYN",
@@ -11627,7 +11627,7 @@ var markers = [
    "DOF": "0"
  },
  {
-   "LandlordRank": "28",
+   "Rank": "28",
    "BuildingID": "375510",
    "LandlordID": "210685",
    "Boro": "BROOKLYN",
@@ -11665,7 +11665,7 @@ var markers = [
    "DOF": "0"
  },
  {
-   "LandlordRank": "28",
+   "Rank": "28",
    "BuildingID": "375534",
    "LandlordID": "210685",
    "Boro": "BROOKLYN",
@@ -11703,7 +11703,7 @@ var markers = [
    "DOF": "0"
  },
  {
-   "LandlordRank": "28",
+   "Rank": "28",
    "BuildingID": "375608",
    "LandlordID": "210685",
    "Boro": "BROOKLYN",
@@ -11741,7 +11741,7 @@ var markers = [
    "DOF": "0"
  },
  {
-   "LandlordRank": "28",
+   "Rank": "28",
    "BuildingID": "375899",
    "LandlordID": "210685",
    "Boro": "BROOKLYN",
@@ -11779,7 +11779,7 @@ var markers = [
    "DOF": "0"
  },
  {
-   "LandlordRank": "28",
+   "Rank": "28",
    "BuildingID": "396812",
    "LandlordID": "210685",
    "Boro": "BROOKLYN",
@@ -11817,7 +11817,7 @@ var markers = [
    "DOF": "0"
  },
  {
-   "LandlordRank": "28",
+   "Rank": "28",
    "BuildingID": "396835",
    "LandlordID": "210685",
    "Boro": "BROOKLYN",
@@ -11855,7 +11855,7 @@ var markers = [
    "DOF": "0"
  },
  {
-   "LandlordRank": "28",
+   "Rank": "28",
    "BuildingID": "398347",
    "LandlordID": "210685",
    "Boro": "BROOKLYN",
@@ -11893,7 +11893,7 @@ var markers = [
    "DOF": "0"
  },
  {
-   "LandlordRank": "29",
+   "Rank": "29",
    "BuildingID": "44551",
    "LandlordID": "44551",
    "Boro": "BRONX",
@@ -11931,7 +11931,7 @@ var markers = [
    "DOF": "0"
  },
  {
-   "LandlordRank": "29",
+   "Rank": "29",
    "BuildingID": "46208",
    "LandlordID": "44551",
    "Boro": "BRONX",
@@ -11969,7 +11969,7 @@ var markers = [
    "DOF": "0"
  },
  {
-   "LandlordRank": "29",
+   "Rank": "29",
    "BuildingID": "67515",
    "LandlordID": "44551",
    "Boro": "BRONX",
@@ -12007,7 +12007,7 @@ var markers = [
    "DOF": "0"
  },
  {
-   "LandlordRank": "29",
+   "Rank": "29",
    "BuildingID": "94483",
    "LandlordID": "44551",
    "Boro": "BRONX",
@@ -12045,7 +12045,7 @@ var markers = [
    "DOF": "0"
  },
  {
-   "LandlordRank": "30",
+   "Rank": "30",
    "BuildingID": "332",
    "LandlordID": "332",
    "Boro": "MANHATTAN",
@@ -12083,7 +12083,7 @@ var markers = [
    "DOF": "0"
  },
  {
-   "LandlordRank": "30",
+   "Rank": "30",
    "BuildingID": "3619",
    "LandlordID": "332",
    "Boro": "MANHATTAN",
@@ -12121,7 +12121,7 @@ var markers = [
    "DOF": "0"
  },
  {
-   "LandlordRank": "30",
+   "Rank": "30",
    "BuildingID": "3621",
    "LandlordID": "332",
    "Boro": "MANHATTAN",
@@ -12159,7 +12159,7 @@ var markers = [
    "DOF": "0"
  },
  {
-   "LandlordRank": "30",
+   "Rank": "30",
    "BuildingID": "5622",
    "LandlordID": "332",
    "Boro": "MANHATTAN",
@@ -12197,7 +12197,7 @@ var markers = [
    "DOF": "0"
  },
  {
-   "LandlordRank": "30",
+   "Rank": "30",
    "BuildingID": "5626",
    "LandlordID": "332",
    "Boro": "MANHATTAN",
@@ -12235,7 +12235,7 @@ var markers = [
    "DOF": "0"
  },
  {
-   "LandlordRank": "30",
+   "Rank": "30",
    "BuildingID": "27312",
    "LandlordID": "332",
    "Boro": "MANHATTAN",
@@ -12273,7 +12273,7 @@ var markers = [
    "DOF": "0"
  },
  {
-   "LandlordRank": "30",
+   "Rank": "30",
    "BuildingID": "805614",
    "LandlordID": "332",
    "Boro": "MANHATTAN",
@@ -12311,7 +12311,7 @@ var markers = [
    "DOF": "0"
  },
  {
-   "LandlordRank": "31",
+   "Rank": "31",
    "BuildingID": "53657",
    "LandlordID": "53657",
    "Boro": "BRONX",
@@ -12349,7 +12349,7 @@ var markers = [
    "DOF": "0"
  },
  {
-   "LandlordRank": "31",
+   "Rank": "31",
    "BuildingID": "81843",
    "LandlordID": "53657",
    "Boro": "BRONX",
@@ -12387,7 +12387,7 @@ var markers = [
    "DOF": "0"
  },
  {
-   "LandlordRank": "31",
+   "Rank": "31",
    "BuildingID": "84327",
    "LandlordID": "53657",
    "Boro": "BRONX",
@@ -12425,7 +12425,7 @@ var markers = [
    "DOF": "0"
  },
  {
-   "LandlordRank": "31",
+   "Rank": "31",
    "BuildingID": "221452",
    "LandlordID": "53657",
    "Boro": "BROOKLYN",
@@ -12463,7 +12463,7 @@ var markers = [
    "DOF": "0"
  },
  {
-   "LandlordRank": "31",
+   "Rank": "31",
    "BuildingID": "397540",
    "LandlordID": "53657",
    "Boro": "BROOKLYN",
@@ -12501,7 +12501,7 @@ var markers = [
    "DOF": "0"
  },
  {
-   "LandlordRank": "32",
+   "Rank": "32",
    "BuildingID": "160331",
    "LandlordID": "160331",
    "Boro": "BROOKLYN",
@@ -12539,7 +12539,7 @@ var markers = [
    "DOF": "0"
  },
  {
-   "LandlordRank": "32",
+   "Rank": "32",
    "BuildingID": "201299",
    "LandlordID": "160331",
    "Boro": "BROOKLYN",
@@ -12577,7 +12577,7 @@ var markers = [
    "DOF": "0"
  },
  {
-   "LandlordRank": "32",
+   "Rank": "32",
    "BuildingID": "203918",
    "LandlordID": "160331",
    "Boro": "BROOKLYN",
@@ -12615,7 +12615,7 @@ var markers = [
    "DOF": "0"
  },
  {
-   "LandlordRank": "32",
+   "Rank": "32",
    "BuildingID": "218218",
    "LandlordID": "160331",
    "Boro": "BROOKLYN",
@@ -12653,7 +12653,7 @@ var markers = [
    "DOF": "0"
  },
  {
-   "LandlordRank": "32",
+   "Rank": "32",
    "BuildingID": "241804",
    "LandlordID": "160331",
    "Boro": "BROOKLYN",
@@ -12691,7 +12691,7 @@ var markers = [
    "DOF": "0"
  },
  {
-   "LandlordRank": "33",
+   "Rank": "33",
    "BuildingID": "49126",
    "LandlordID": "49126",
    "Boro": "BRONX",
@@ -12729,7 +12729,7 @@ var markers = [
    "DOF": "0"
  },
  {
-   "LandlordRank": "33",
+   "Rank": "33",
    "BuildingID": "49128",
    "LandlordID": "49126",
    "Boro": "BRONX",
@@ -12767,7 +12767,7 @@ var markers = [
    "DOF": "0"
  },
  {
-   "LandlordRank": "33",
+   "Rank": "33",
    "BuildingID": "50311",
    "LandlordID": "49126",
    "Boro": "BRONX",
@@ -12805,7 +12805,7 @@ var markers = [
    "DOF": "0"
  },
  {
-   "LandlordRank": "33",
+   "Rank": "33",
    "BuildingID": "62511",
    "LandlordID": "49126",
    "Boro": "BRONX",
@@ -12843,7 +12843,7 @@ var markers = [
    "DOF": "0"
  },
  {
-   "LandlordRank": "33",
+   "Rank": "33",
    "BuildingID": "67897",
    "LandlordID": "49126",
    "Boro": "BRONX",
@@ -12881,7 +12881,7 @@ var markers = [
    "DOF": "1"
  },
  {
-   "LandlordRank": "33",
+   "Rank": "33",
    "BuildingID": "68792",
    "LandlordID": "49126",
    "Boro": "BRONX",
@@ -12919,7 +12919,7 @@ var markers = [
    "DOF": "0"
  },
  {
-   "LandlordRank": "33",
+   "Rank": "33",
    "BuildingID": "73626",
    "LandlordID": "49126",
    "Boro": "BRONX",
@@ -12957,7 +12957,7 @@ var markers = [
    "DOF": "1"
  },
  {
-   "LandlordRank": "33",
+   "Rank": "33",
    "BuildingID": "80115",
    "LandlordID": "49126",
    "Boro": "BRONX",
@@ -12995,7 +12995,7 @@ var markers = [
    "DOF": "0"
  },
  {
-   "LandlordRank": "33",
+   "Rank": "33",
    "BuildingID": "80116",
    "LandlordID": "49126",
    "Boro": "BRONX",
@@ -13033,7 +13033,7 @@ var markers = [
    "DOF": "0"
  },
  {
-   "LandlordRank": "33",
+   "Rank": "33",
    "BuildingID": "100511",
    "LandlordID": "49126",
    "Boro": "BRONX",
@@ -13071,7 +13071,7 @@ var markers = [
    "DOF": "0"
  },
  {
-   "LandlordRank": "33",
+   "Rank": "33",
    "BuildingID": "283531",
    "LandlordID": "49126",
    "Boro": "BROOKLYN",
@@ -13109,7 +13109,7 @@ var markers = [
    "DOF": "0"
  },
  {
-   "LandlordRank": "34",
+   "Rank": "34",
    "BuildingID": "220110",
    "LandlordID": "220110",
    "Boro": "BROOKLYN",
@@ -13147,7 +13147,7 @@ var markers = [
    "DOF": "0"
  },
  {
-   "LandlordRank": "34",
+   "Rank": "34",
    "BuildingID": "225110",
    "LandlordID": "220110",
    "Boro": "BROOKLYN",
@@ -13185,7 +13185,7 @@ var markers = [
    "DOF": "1"
  },
  {
-   "LandlordRank": "35",
+   "Rank": "35",
    "BuildingID": "249541",
    "LandlordID": "249541",
    "Boro": "BROOKLYN",
@@ -13223,7 +13223,7 @@ var markers = [
    "DOF": "0"
  },
  {
-   "LandlordRank": "35",
+   "Rank": "35",
    "BuildingID": "307290",
    "LandlordID": "249541",
    "Boro": "BROOKLYN",
@@ -13261,7 +13261,7 @@ var markers = [
    "DOF": "0"
  },
  {
-   "LandlordRank": "35",
+   "Rank": "35",
    "BuildingID": "313123",
    "LandlordID": "249541",
    "Boro": "BROOKLYN",
@@ -13299,7 +13299,7 @@ var markers = [
    "DOF": "0"
  },
  {
-   "LandlordRank": "36",
+   "Rank": "36",
    "BuildingID": "5873",
    "LandlordID": "5873",
    "Boro": "MANHATTAN",
@@ -13337,7 +13337,7 @@ var markers = [
    "DOF": "0"
  },
  {
-   "LandlordRank": "36",
+   "Rank": "36",
    "BuildingID": "25387",
    "LandlordID": "5873",
    "Boro": "MANHATTAN",
@@ -13375,7 +13375,7 @@ var markers = [
    "DOF": "0"
  },
  {
-   "LandlordRank": "37",
+   "Rank": "37",
    "BuildingID": "55615",
    "LandlordID": "55615",
    "Boro": "BRONX",
@@ -13413,7 +13413,7 @@ var markers = [
    "DOF": "0"
  },
  {
-   "LandlordRank": "37",
+   "Rank": "37",
    "BuildingID": "111964",
    "LandlordID": "55615",
    "Boro": "BRONX",
@@ -13451,7 +13451,7 @@ var markers = [
    "DOF": "0"
  },
  {
-   "LandlordRank": "38",
+   "Rank": "38",
    "BuildingID": "333083",
    "LandlordID": "333083",
    "Boro": "BROOKLYN",
@@ -13489,7 +13489,7 @@ var markers = [
    "DOF": "0"
  },
  {
-   "LandlordRank": "38",
+   "Rank": "38",
    "BuildingID": "367887",
    "LandlordID": "333083",
    "Boro": "BROOKLYN",
@@ -13527,7 +13527,7 @@ var markers = [
    "DOF": "1"
  },
  {
-   "LandlordRank": "38",
+   "Rank": "38",
    "BuildingID": "367889",
    "LandlordID": "333083",
    "Boro": "BROOKLYN",
@@ -13565,7 +13565,7 @@ var markers = [
    "DOF": "2"
  },
  {
-   "LandlordRank": "38",
+   "Rank": "38",
    "BuildingID": "378979",
    "LandlordID": "333083",
    "Boro": "BROOKLYN",
@@ -13603,7 +13603,7 @@ var markers = [
    "DOF": "0"
  },
  {
-   "LandlordRank": "38",
+   "Rank": "38",
    "BuildingID": "938328",
    "LandlordID": "333083",
    "Boro": "BROOKLYN",
@@ -13641,7 +13641,7 @@ var markers = [
    "DOF": "0"
  },
  {
-   "LandlordRank": "39",
+   "Rank": "39",
    "BuildingID": "361047",
    "LandlordID": "361047",
    "Boro": "BROOKLYN",
@@ -13679,7 +13679,7 @@ var markers = [
    "DOF": "0"
  },
  {
-   "LandlordRank": "39",
+   "Rank": "39",
    "BuildingID": "379119",
    "LandlordID": "361047",
    "Boro": "BROOKLYN",
@@ -13717,7 +13717,7 @@ var markers = [
    "DOF": "0"
  },
  {
-   "LandlordRank": "40",
+   "Rank": "40",
    "BuildingID": "85",
    "LandlordID": "85",
    "Boro": "MANHATTAN",
@@ -13755,7 +13755,7 @@ var markers = [
    "DOF": "0"
  },
  {
-   "LandlordRank": "40",
+   "Rank": "40",
    "BuildingID": "24623",
    "LandlordID": "85",
    "Boro": "MANHATTAN",
@@ -13793,7 +13793,7 @@ var markers = [
    "DOF": "0"
  },
  {
-   "LandlordRank": "40",
+   "Rank": "40",
    "BuildingID": "804808",
    "LandlordID": "85",
    "Boro": "MANHATTAN",
@@ -13831,7 +13831,7 @@ var markers = [
    "DOF": "0"
  },
  {
-   "LandlordRank": "40",
+   "Rank": "40",
    "BuildingID": "804809",
    "LandlordID": "85",
    "Boro": "MANHATTAN",
@@ -13869,7 +13869,7 @@ var markers = [
    "DOF": "0"
  },
  {
-   "LandlordRank": "40",
+   "Rank": "40",
    "BuildingID": "804810",
    "LandlordID": "85",
    "Boro": "MANHATTAN",
@@ -13907,7 +13907,7 @@ var markers = [
    "DOF": "0"
  },
  {
-   "LandlordRank": "41",
+   "Rank": "41",
    "BuildingID": "5387",
    "LandlordID": "5387",
    "Boro": "MANHATTAN",
@@ -13945,7 +13945,7 @@ var markers = [
    "DOF": "0"
  },
  {
-   "LandlordRank": "41",
+   "Rank": "41",
    "BuildingID": "28940",
    "LandlordID": "5387",
    "Boro": "MANHATTAN",
@@ -13983,7 +13983,7 @@ var markers = [
    "DOF": "0"
  },
  {
-   "LandlordRank": "41",
+   "Rank": "41",
    "BuildingID": "41265",
    "LandlordID": "5387",
    "Boro": "MANHATTAN",
@@ -14021,7 +14021,7 @@ var markers = [
    "DOF": "0"
  },
  {
-   "LandlordRank": "41",
+   "Rank": "41",
    "BuildingID": "46172",
    "LandlordID": "5387",
    "Boro": "BRONX",
@@ -14059,7 +14059,7 @@ var markers = [
    "DOF": "0"
  },
  {
-   "LandlordRank": "41",
+   "Rank": "41",
    "BuildingID": "340339",
    "LandlordID": "5387",
    "Boro": "BROOKLYN",
@@ -14097,7 +14097,7 @@ var markers = [
    "DOF": "0"
  },
  {
-   "LandlordRank": "42",
+   "Rank": "42",
    "BuildingID": "230002",
    "LandlordID": "230002",
    "Boro": "BROOKLYN",
@@ -14135,7 +14135,7 @@ var markers = [
    "DOF": "0"
  },
  {
-   "LandlordRank": "42",
+   "Rank": "42",
    "BuildingID": "444954",
    "LandlordID": "230002",
    "Boro": "QUEENS",
@@ -14173,7 +14173,7 @@ var markers = [
    "DOF": "0"
  },
  {
-   "LandlordRank": "42",
+   "Rank": "42",
    "BuildingID": "931742",
    "LandlordID": "230002",
    "Boro": "BRONX",
@@ -14211,7 +14211,7 @@ var markers = [
    "DOF": "0"
  },
  {
-   "LandlordRank": "43",
+   "Rank": "43",
    "BuildingID": "205735",
    "LandlordID": "205735",
    "Boro": "BROOKLYN",
@@ -14249,7 +14249,7 @@ var markers = [
    "DOF": "0"
  },
  {
-   "LandlordRank": "43",
+   "Rank": "43",
    "BuildingID": "287425",
    "LandlordID": "205735",
    "Boro": "BROOKLYN",
@@ -14287,7 +14287,7 @@ var markers = [
    "DOF": "0"
  },
  {
-   "LandlordRank": "43",
+   "Rank": "43",
    "BuildingID": "287487",
    "LandlordID": "205735",
    "Boro": "BROOKLYN",
@@ -14325,7 +14325,7 @@ var markers = [
    "DOF": "0"
  },
  {
-   "LandlordRank": "43",
+   "Rank": "43",
    "BuildingID": "288106",
    "LandlordID": "205735",
    "Boro": "BROOKLYN",
@@ -14363,7 +14363,7 @@ var markers = [
    "DOF": "0"
  },
  {
-   "LandlordRank": "43",
+   "Rank": "43",
    "BuildingID": "355105",
    "LandlordID": "205735",
    "Boro": "BROOKLYN",
@@ -14401,7 +14401,7 @@ var markers = [
    "DOF": "0"
  },
  {
-   "LandlordRank": "43",
+   "Rank": "43",
    "BuildingID": "383369",
    "LandlordID": "205735",
    "Boro": "BROOKLYN",
@@ -14439,7 +14439,7 @@ var markers = [
    "DOF": "0"
  },
  {
-   "LandlordRank": "44",
+   "Rank": "44",
    "BuildingID": "241983",
    "LandlordID": "241983",
    "Boro": "BROOKLYN",
@@ -14477,7 +14477,7 @@ var markers = [
    "DOF": "0"
  },
  {
-   "LandlordRank": "44",
+   "Rank": "44",
    "BuildingID": "242653",
    "LandlordID": "241983",
    "Boro": "BROOKLYN",
@@ -14515,7 +14515,7 @@ var markers = [
    "DOF": "0"
  },
  {
-   "LandlordRank": "44",
+   "Rank": "44",
    "BuildingID": "319998",
    "LandlordID": "241983",
    "Boro": "BROOKLYN",
@@ -14553,7 +14553,7 @@ var markers = [
    "DOF": "0"
  },
  {
-   "LandlordRank": "45",
+   "Rank": "45",
    "BuildingID": "4119",
    "LandlordID": "4119",
    "Boro": "MANHATTAN",
@@ -14591,7 +14591,7 @@ var markers = [
    "DOF": "0"
  },
  {
-   "LandlordRank": "45",
+   "Rank": "45",
    "BuildingID": "25947",
    "LandlordID": "4119",
    "Boro": "MANHATTAN",
@@ -14629,7 +14629,7 @@ var markers = [
    "DOF": "0"
  },
  {
-   "LandlordRank": "45",
+   "Rank": "45",
    "BuildingID": "25948",
    "LandlordID": "4119",
    "Boro": "MANHATTAN",
@@ -14667,7 +14667,7 @@ var markers = [
    "DOF": "0"
  },
  {
-   "LandlordRank": "45",
+   "Rank": "45",
    "BuildingID": "25949",
    "LandlordID": "4119",
    "Boro": "MANHATTAN",
@@ -14705,7 +14705,7 @@ var markers = [
    "DOF": "0"
  },
  {
-   "LandlordRank": "45",
+   "Rank": "45",
    "BuildingID": "25950",
    "LandlordID": "4119",
    "Boro": "MANHATTAN",
@@ -14743,7 +14743,7 @@ var markers = [
    "DOF": "0"
  },
  {
-   "LandlordRank": "45",
+   "Rank": "45",
    "BuildingID": "42563",
    "LandlordID": "4119",
    "Boro": "MANHATTAN",
@@ -14781,7 +14781,7 @@ var markers = [
    "DOF": "0"
  },
  {
-   "LandlordRank": "46",
+   "Rank": "46",
    "BuildingID": "96822",
    "LandlordID": "96822",
    "Boro": "BRONX",
@@ -14819,7 +14819,7 @@ var markers = [
    "DOF": "0"
  },
  {
-   "LandlordRank": "46",
+   "Rank": "46",
    "BuildingID": "104386",
    "LandlordID": "96822",
    "Boro": "BRONX",
@@ -14857,7 +14857,7 @@ var markers = [
    "DOF": "0"
  },
  {
-   "LandlordRank": "47",
+   "Rank": "47",
    "BuildingID": "207016",
    "LandlordID": "207016",
    "Boro": "BROOKLYN",
@@ -14895,7 +14895,7 @@ var markers = [
    "DOF": "0"
  },
  {
-   "LandlordRank": "47",
+   "Rank": "47",
    "BuildingID": "217258",
    "LandlordID": "207016",
    "Boro": "BROOKLYN",
@@ -14933,7 +14933,7 @@ var markers = [
    "DOF": "0"
  },
  {
-   "LandlordRank": "47",
+   "Rank": "47",
    "BuildingID": "290693",
    "LandlordID": "207016",
    "Boro": "BROOKLYN",
@@ -14971,7 +14971,7 @@ var markers = [
    "DOF": "0"
  },
  {
-   "LandlordRank": "47",
+   "Rank": "47",
    "BuildingID": "294189",
    "LandlordID": "207016",
    "Boro": "BROOKLYN",
@@ -15009,7 +15009,7 @@ var markers = [
    "DOF": "1"
  },
  {
-   "LandlordRank": "47",
+   "Rank": "47",
    "BuildingID": "334821",
    "LandlordID": "207016",
    "Boro": "BROOKLYN",
@@ -15047,7 +15047,7 @@ var markers = [
    "DOF": "0"
  },
  {
-   "LandlordRank": "47",
+   "Rank": "47",
    "BuildingID": "339057",
    "LandlordID": "207016",
    "Boro": "BROOKLYN",
@@ -15085,7 +15085,7 @@ var markers = [
    "DOF": "0"
  },
  {
-   "LandlordRank": "47",
+   "Rank": "47",
    "BuildingID": "375045",
    "LandlordID": "207016",
    "Boro": "BROOKLYN",
@@ -15123,7 +15123,7 @@ var markers = [
    "DOF": "0"
  },
  {
-   "LandlordRank": "47",
+   "Rank": "47",
    "BuildingID": "705753",
    "LandlordID": "207016",
    "Boro": "QUEENS",
@@ -15161,7 +15161,7 @@ var markers = [
    "DOF": "0"
  },
  {
-   "LandlordRank": "48",
+   "Rank": "48",
    "BuildingID": "55431",
    "LandlordID": "55431",
    "Boro": "BRONX",
@@ -15199,7 +15199,7 @@ var markers = [
    "DOF": "0"
  },
  {
-   "LandlordRank": "48",
+   "Rank": "48",
    "BuildingID": "81582",
    "LandlordID": "55431",
    "Boro": "BRONX",
@@ -15237,7 +15237,7 @@ var markers = [
    "DOF": "0"
  },
  {
-   "LandlordRank": "48",
+   "Rank": "48",
    "BuildingID": "125650",
    "LandlordID": "55431",
    "Boro": "BRONX",
@@ -15275,7 +15275,7 @@ var markers = [
    "DOF": "0"
  },
  {
-   "LandlordRank": "49",
+   "Rank": "49",
    "BuildingID": "55175",
    "LandlordID": "55175",
    "Boro": "BRONX",
@@ -15313,7 +15313,7 @@ var markers = [
    "DOF": "0"
  },
  {
-   "LandlordRank": "49",
+   "Rank": "49",
    "BuildingID": "57524",
    "LandlordID": "55175",
    "Boro": "BRONX",
@@ -15351,7 +15351,7 @@ var markers = [
    "DOF": "0"
  },
  {
-   "LandlordRank": "49",
+   "Rank": "49",
    "BuildingID": "94897",
    "LandlordID": "55175",
    "Boro": "BRONX",
@@ -15389,7 +15389,7 @@ var markers = [
    "DOF": "0"
  },
  {
-   "LandlordRank": "50",
+   "Rank": "50",
    "BuildingID": "17337",
    "LandlordID": "17337",
    "Boro": "MANHATTAN",
@@ -15427,7 +15427,7 @@ var markers = [
    "DOF": "0"
  },
  {
-   "LandlordRank": "50",
+   "Rank": "50",
    "BuildingID": "414052",
    "LandlordID": "17337",
    "Boro": "QUEENS",
@@ -15465,7 +15465,7 @@ var markers = [
    "DOF": "0"
  },
  {
-   "LandlordRank": "50",
+   "Rank": "50",
    "BuildingID": "422949",
    "LandlordID": "17337",
    "Boro": "QUEENS",
@@ -15503,7 +15503,7 @@ var markers = [
    "DOF": "0"
  },
  {
-   "LandlordRank": "50",
+   "Rank": "50",
    "BuildingID": "496777",
    "LandlordID": "17337",
    "Boro": "QUEENS",
@@ -15541,7 +15541,7 @@ var markers = [
    "DOF": "0"
  },
  {
-   "LandlordRank": "51",
+   "Rank": "51",
    "BuildingID": "5857",
    "LandlordID": "5857",
    "Boro": "MANHATTAN",
@@ -15579,7 +15579,7 @@ var markers = [
    "DOF": "0"
  },
  {
-   "LandlordRank": "52",
+   "Rank": "52",
    "BuildingID": "214343",
    "LandlordID": "214343",
    "Boro": "BROOKLYN",
@@ -15617,7 +15617,7 @@ var markers = [
    "DOF": "0"
  },
  {
-   "LandlordRank": "52",
+   "Rank": "52",
    "BuildingID": "294117",
    "LandlordID": "214343",
    "Boro": "BROOKLYN",
@@ -15655,7 +15655,7 @@ var markers = [
    "DOF": "0"
  },
  {
-   "LandlordRank": "52",
+   "Rank": "52",
    "BuildingID": "295808",
    "LandlordID": "214343",
    "Boro": "BROOKLYN",
@@ -15693,7 +15693,7 @@ var markers = [
    "DOF": "0"
  },
  {
-   "LandlordRank": "52",
+   "Rank": "52",
    "BuildingID": "303401",
    "LandlordID": "214343",
    "Boro": "BROOKLYN",
@@ -15731,7 +15731,7 @@ var markers = [
    "DOF": "0"
  },
  {
-   "LandlordRank": "52",
+   "Rank": "52",
    "BuildingID": "303404",
    "LandlordID": "214343",
    "Boro": "BROOKLYN",
@@ -15769,7 +15769,7 @@ var markers = [
    "DOF": "0"
  },
  {
-   "LandlordRank": "52",
+   "Rank": "52",
    "BuildingID": "305597",
    "LandlordID": "214343",
    "Boro": "BROOKLYN",
@@ -15807,7 +15807,7 @@ var markers = [
    "DOF": "0"
  },
  {
-   "LandlordRank": "52",
+   "Rank": "52",
    "BuildingID": "326291",
    "LandlordID": "214343",
    "Boro": "BROOKLYN",
@@ -15845,7 +15845,7 @@ var markers = [
    "DOF": "0"
  },
  {
-   "LandlordRank": "52",
+   "Rank": "52",
    "BuildingID": "349509",
    "LandlordID": "214343",
    "Boro": "BROOKLYN",
@@ -15883,7 +15883,7 @@ var markers = [
    "DOF": "0"
  },
  {
-   "LandlordRank": "53",
+   "Rank": "53",
    "BuildingID": "139910",
    "LandlordID": "139910",
    "Boro": "BROOKLYN",
@@ -15921,7 +15921,7 @@ var markers = [
    "DOF": "0"
  },
  {
-   "LandlordRank": "53",
+   "Rank": "53",
    "BuildingID": "183203",
    "LandlordID": "139910",
    "Boro": "BROOKLYN",
@@ -15959,7 +15959,7 @@ var markers = [
    "DOF": "0"
  },
  {
-   "LandlordRank": "53",
+   "Rank": "53",
    "BuildingID": "321479",
    "LandlordID": "139910",
    "Boro": "BROOKLYN",
@@ -15997,7 +15997,7 @@ var markers = [
    "DOF": "0"
  },
  {
-   "LandlordRank": "53",
+   "Rank": "53",
    "BuildingID": "321603",
    "LandlordID": "139910",
    "Boro": "BROOKLYN",
@@ -16035,7 +16035,7 @@ var markers = [
    "DOF": "0"
  },
  {
-   "LandlordRank": "53",
+   "Rank": "53",
    "BuildingID": "372319",
    "LandlordID": "139910",
    "Boro": "BROOKLYN",
@@ -16073,7 +16073,7 @@ var markers = [
    "DOF": "0"
  },
  {
-   "LandlordRank": "53",
+   "Rank": "53",
    "BuildingID": "373696",
    "LandlordID": "139910",
    "Boro": "BROOKLYN",
@@ -16111,7 +16111,7 @@ var markers = [
    "DOF": "0"
  },
  {
-   "LandlordRank": "53",
+   "Rank": "53",
    "BuildingID": "373699",
    "LandlordID": "139910",
    "Boro": "BROOKLYN",
@@ -16149,7 +16149,7 @@ var markers = [
    "DOF": "0"
  },
  {
-   "LandlordRank": "53",
+   "Rank": "53",
    "BuildingID": "374043",
    "LandlordID": "139910",
    "Boro": "BROOKLYN",
@@ -16187,7 +16187,7 @@ var markers = [
    "DOF": "0"
  },
  {
-   "LandlordRank": "53",
+   "Rank": "53",
    "BuildingID": "381152",
    "LandlordID": "139910",
    "Boro": "BROOKLYN",
@@ -16225,7 +16225,7 @@ var markers = [
    "DOF": "0"
  },
  {
-   "LandlordRank": "54",
+   "Rank": "54",
    "BuildingID": "211511",
    "LandlordID": "211511",
    "Boro": "BROOKLYN",
@@ -16263,7 +16263,7 @@ var markers = [
    "DOF": "0"
  },
  {
-   "LandlordRank": "54",
+   "Rank": "54",
    "BuildingID": "297833",
    "LandlordID": "211511",
    "Boro": "BROOKLYN",
@@ -16301,7 +16301,7 @@ var markers = [
    "DOF": "0"
  },
  {
-   "LandlordRank": "54",
+   "Rank": "54",
    "BuildingID": "309561",
    "LandlordID": "211511",
    "Boro": "BROOKLYN",
@@ -16339,7 +16339,7 @@ var markers = [
    "DOF": "0"
  },
  {
-   "LandlordRank": "54",
+   "Rank": "54",
    "BuildingID": "314712",
    "LandlordID": "211511",
    "Boro": "BROOKLYN",
@@ -16377,7 +16377,7 @@ var markers = [
    "DOF": "0"
  },
  {
-   "LandlordRank": "54",
+   "Rank": "54",
    "BuildingID": "330964",
    "LandlordID": "211511",
    "Boro": "BROOKLYN",
@@ -16415,7 +16415,7 @@ var markers = [
    "DOF": "0"
  },
  {
-   "LandlordRank": "54",
+   "Rank": "54",
    "BuildingID": "333129",
    "LandlordID": "211511",
    "Boro": "BROOKLYN",
@@ -16453,7 +16453,7 @@ var markers = [
    "DOF": "0"
  },
  {
-   "LandlordRank": "54",
+   "Rank": "54",
    "BuildingID": "335050",
    "LandlordID": "211511",
    "Boro": "BROOKLYN",
@@ -16491,7 +16491,7 @@ var markers = [
    "DOF": "0"
  },
  {
-   "LandlordRank": "54",
+   "Rank": "54",
    "BuildingID": "335087",
    "LandlordID": "211511",
    "Boro": "BROOKLYN",
@@ -16529,7 +16529,7 @@ var markers = [
    "DOF": "0"
  },
  {
-   "LandlordRank": "54",
+   "Rank": "54",
    "BuildingID": "338063",
    "LandlordID": "211511",
    "Boro": "BROOKLYN",
@@ -16567,7 +16567,7 @@ var markers = [
    "DOF": "0"
  },
  {
-   "LandlordRank": "54",
+   "Rank": "54",
    "BuildingID": "369268",
    "LandlordID": "211511",
    "Boro": "BROOKLYN",
@@ -16605,7 +16605,7 @@ var markers = [
    "DOF": "0"
  },
  {
-   "LandlordRank": "54",
+   "Rank": "54",
    "BuildingID": "369325",
    "LandlordID": "211511",
    "Boro": "BROOKLYN",
@@ -16643,7 +16643,7 @@ var markers = [
    "DOF": "0"
  },
  {
-   "LandlordRank": "54",
+   "Rank": "54",
    "BuildingID": "379423",
    "LandlordID": "211511",
    "Boro": "BROOKLYN",
@@ -16681,7 +16681,7 @@ var markers = [
    "DOF": "0"
  },
  {
-   "LandlordRank": "55",
+   "Rank": "55",
    "BuildingID": "59488",
    "LandlordID": "59488",
    "Boro": "BRONX",
@@ -16719,7 +16719,7 @@ var markers = [
    "DOF": "0"
  },
  {
-   "LandlordRank": "56",
+   "Rank": "56",
    "BuildingID": "5569",
    "LandlordID": "5569",
    "Boro": "MANHATTAN",
@@ -16757,7 +16757,7 @@ var markers = [
    "DOF": "0"
  },
  {
-   "LandlordRank": "56",
+   "Rank": "56",
    "BuildingID": "5587",
    "LandlordID": "5569",
    "Boro": "MANHATTAN",
@@ -16795,7 +16795,7 @@ var markers = [
    "DOF": "0"
  },
  {
-   "LandlordRank": "56",
+   "Rank": "56",
    "BuildingID": "10857",
    "LandlordID": "5569",
    "Boro": "MANHATTAN",
@@ -16833,7 +16833,7 @@ var markers = [
    "DOF": "0"
  },
  {
-   "LandlordRank": "56",
+   "Rank": "56",
    "BuildingID": "19658",
    "LandlordID": "5569",
    "Boro": "MANHATTAN",
@@ -16871,7 +16871,7 @@ var markers = [
    "DOF": "0"
  },
  {
-   "LandlordRank": "57",
+   "Rank": "57",
    "BuildingID": "185086",
    "LandlordID": "185086",
    "Boro": "BROOKLYN",
@@ -16909,7 +16909,7 @@ var markers = [
    "DOF": "0"
  },
  {
-   "LandlordRank": "57",
+   "Rank": "57",
    "BuildingID": "230358",
    "LandlordID": "185086",
    "Boro": "BROOKLYN",
@@ -16947,7 +16947,7 @@ var markers = [
    "DOF": "0"
  },
  {
-   "LandlordRank": "57",
+   "Rank": "57",
    "BuildingID": "318016",
    "LandlordID": "185086",
    "Boro": "BROOKLYN",
@@ -16985,7 +16985,7 @@ var markers = [
    "DOF": "1"
  },
  {
-   "LandlordRank": "57",
+   "Rank": "57",
    "BuildingID": "357439",
    "LandlordID": "185086",
    "Boro": "BROOKLYN",
@@ -17023,7 +17023,7 @@ var markers = [
    "DOF": "0"
  },
  {
-   "LandlordRank": "57",
+   "Rank": "57",
    "BuildingID": "362898",
    "LandlordID": "185086",
    "Boro": "BROOKLYN",
@@ -17061,7 +17061,7 @@ var markers = [
    "DOF": "0"
  },
  {
-   "LandlordRank": "58",
+   "Rank": "58",
    "BuildingID": "193532",
    "LandlordID": "193532",
    "Boro": "BROOKLYN",
@@ -17099,7 +17099,7 @@ var markers = [
    "DOF": "0"
  },
  {
-   "LandlordRank": "58",
+   "Rank": "58",
    "BuildingID": "205915",
    "LandlordID": "193532",
    "Boro": "BROOKLYN",
@@ -17137,7 +17137,7 @@ var markers = [
    "DOF": "0"
  },
  {
-   "LandlordRank": "58",
+   "Rank": "58",
    "BuildingID": "242585",
    "LandlordID": "193532",
    "Boro": "BROOKLYN",
@@ -17175,7 +17175,7 @@ var markers = [
    "DOF": "0"
  },
  {
-   "LandlordRank": "58",
+   "Rank": "58",
    "BuildingID": "247941",
    "LandlordID": "193532",
    "Boro": "BROOKLYN",
@@ -17213,7 +17213,7 @@ var markers = [
    "DOF": "0"
  },
  {
-   "LandlordRank": "58",
+   "Rank": "58",
    "BuildingID": "249537",
    "LandlordID": "193532",
    "Boro": "BROOKLYN",
@@ -17251,7 +17251,7 @@ var markers = [
    "DOF": "0"
  },
  {
-   "LandlordRank": "58",
+   "Rank": "58",
    "BuildingID": "360366",
    "LandlordID": "193532",
    "Boro": "BROOKLYN",
@@ -17289,7 +17289,7 @@ var markers = [
    "DOF": "0"
  },
  {
-   "LandlordRank": "59",
+   "Rank": "59",
    "BuildingID": "223181",
    "LandlordID": "223181",
    "Boro": "BROOKLYN",
@@ -17327,7 +17327,7 @@ var markers = [
    "DOF": "2"
  },
  {
-   "LandlordRank": "59",
+   "Rank": "59",
    "BuildingID": "327191",
    "LandlordID": "223181",
    "Boro": "BROOKLYN",
@@ -17365,7 +17365,7 @@ var markers = [
    "DOF": "1"
  },
  {
-   "LandlordRank": "59",
+   "Rank": "59",
    "BuildingID": "327202",
    "LandlordID": "223181",
    "Boro": "BROOKLYN",
@@ -17403,7 +17403,7 @@ var markers = [
    "DOF": "2"
  },
  {
-   "LandlordRank": "60",
+   "Rank": "60",
    "BuildingID": "27202",
    "LandlordID": "27202",
    "Boro": "MANHATTAN",
@@ -17441,7 +17441,7 @@ var markers = [
    "DOF": "0"
  },
  {
-   "LandlordRank": "60",
+   "Rank": "60",
    "BuildingID": "805423",
    "LandlordID": "27202",
    "Boro": "MANHATTAN",
@@ -17479,7 +17479,7 @@ var markers = [
    "DOF": "0"
  },
  {
-   "LandlordRank": "61",
+   "Rank": "61",
    "BuildingID": "8127",
    "LandlordID": "8127",
    "Boro": "MANHATTAN",
@@ -17517,7 +17517,7 @@ var markers = [
    "DOF": "0"
  },
  {
-   "LandlordRank": "61",
+   "Rank": "61",
    "BuildingID": "41395",
    "LandlordID": "8127",
    "Boro": "MANHATTAN",
@@ -17555,7 +17555,7 @@ var markers = [
    "DOF": "0"
  },
  {
-   "LandlordRank": "61",
+   "Rank": "61",
    "BuildingID": "41578",
    "LandlordID": "8127",
    "Boro": "MANHATTAN",
@@ -17593,7 +17593,7 @@ var markers = [
    "DOF": "0"
  },
  {
-   "LandlordRank": "61",
+   "Rank": "61",
    "BuildingID": "42802",
    "LandlordID": "8127",
    "Boro": "MANHATTAN",
@@ -17631,7 +17631,7 @@ var markers = [
    "DOF": "0"
  },
  {
-   "LandlordRank": "61",
+   "Rank": "61",
    "BuildingID": "805941",
    "LandlordID": "8127",
    "Boro": "MANHATTAN",
@@ -17669,7 +17669,7 @@ var markers = [
    "DOF": "0"
  },
  {
-   "LandlordRank": "62",
+   "Rank": "62",
    "BuildingID": "322267",
    "LandlordID": "322267",
    "Boro": "BROOKLYN",
@@ -17707,7 +17707,7 @@ var markers = [
    "DOF": "0"
  },
  {
-   "LandlordRank": "62",
+   "Rank": "62",
    "BuildingID": "344903",
    "LandlordID": "322267",
    "Boro": "BROOKLYN",
@@ -17745,7 +17745,7 @@ var markers = [
    "DOF": "0"
  },
  {
-   "LandlordRank": "62",
+   "Rank": "62",
    "BuildingID": "349548",
    "LandlordID": "322267",
    "Boro": "BROOKLYN",
@@ -17783,7 +17783,7 @@ var markers = [
    "DOF": "0"
  },
  {
-   "LandlordRank": "62",
+   "Rank": "62",
    "BuildingID": "379287",
    "LandlordID": "322267",
    "Boro": "BROOKLYN",
@@ -17821,7 +17821,7 @@ var markers = [
    "DOF": "0"
  },
  {
-   "LandlordRank": "62",
+   "Rank": "62",
    "BuildingID": "382464",
    "LandlordID": "322267",
    "Boro": "BROOKLYN",
@@ -17859,7 +17859,7 @@ var markers = [
    "DOF": "0"
  },
  {
-   "LandlordRank": "62",
+   "Rank": "62",
    "BuildingID": "396107",
    "LandlordID": "322267",
    "Boro": "BROOKLYN",
@@ -17897,7 +17897,7 @@ var markers = [
    "DOF": "0"
  },
  {
-   "LandlordRank": "63",
+   "Rank": "63",
    "BuildingID": "49441",
    "LandlordID": "49441",
    "Boro": "BRONX",
@@ -17935,7 +17935,7 @@ var markers = [
    "DOF": "0"
  },
  {
-   "LandlordRank": "63",
+   "Rank": "63",
    "BuildingID": "108934",
    "LandlordID": "49441",
    "Boro": "BRONX",
@@ -17973,7 +17973,7 @@ var markers = [
    "DOF": "0"
  },
  {
-   "LandlordRank": "63",
+   "Rank": "63",
    "BuildingID": "109852",
    "LandlordID": "49441",
    "Boro": "BRONX",
@@ -18011,7 +18011,7 @@ var markers = [
    "DOF": "0"
  },
  {
-   "LandlordRank": "63",
+   "Rank": "63",
    "BuildingID": "218950",
    "LandlordID": "49441",
    "Boro": "BROOKLYN",
@@ -18049,7 +18049,7 @@ var markers = [
    "DOF": "0"
  },
  {
-   "LandlordRank": "63",
+   "Rank": "63",
    "BuildingID": "270200",
    "LandlordID": "49441",
    "Boro": "BROOKLYN",
@@ -18087,7 +18087,7 @@ var markers = [
    "DOF": "0"
  },
  {
-   "LandlordRank": "63",
+   "Rank": "63",
    "BuildingID": "282688",
    "LandlordID": "49441",
    "Boro": "BROOKLYN",
@@ -18125,7 +18125,7 @@ var markers = [
    "DOF": "0"
  },
  {
-   "LandlordRank": "63",
+   "Rank": "63",
    "BuildingID": "283224",
    "LandlordID": "49441",
    "Boro": "BROOKLYN",
@@ -18163,7 +18163,7 @@ var markers = [
    "DOF": "0"
  },
  {
-   "LandlordRank": "64",
+   "Rank": "64",
    "BuildingID": "4255",
    "LandlordID": "4255",
    "Boro": "MANHATTAN",
@@ -18201,7 +18201,7 @@ var markers = [
    "DOF": "0"
  },
  {
-   "LandlordRank": "64",
+   "Rank": "64",
    "BuildingID": "4258",
    "LandlordID": "4255",
    "Boro": "MANHATTAN",
@@ -18239,7 +18239,7 @@ var markers = [
    "DOF": "0"
  },
  {
-   "LandlordRank": "64",
+   "Rank": "64",
    "BuildingID": "4621",
    "LandlordID": "4255",
    "Boro": "MANHATTAN",
@@ -18277,7 +18277,7 @@ var markers = [
    "DOF": "0"
  },
  {
-   "LandlordRank": "64",
+   "Rank": "64",
    "BuildingID": "22289",
    "LandlordID": "4255",
    "Boro": "MANHATTAN",
@@ -18315,7 +18315,7 @@ var markers = [
    "DOF": "0"
  },
  {
-   "LandlordRank": "64",
+   "Rank": "64",
    "BuildingID": "30810",
    "LandlordID": "4255",
    "Boro": "MANHATTAN",
@@ -18353,7 +18353,7 @@ var markers = [
    "DOF": "0"
  },
  {
-   "LandlordRank": "64",
+   "Rank": "64",
    "BuildingID": "31494",
    "LandlordID": "4255",
    "Boro": "MANHATTAN",
@@ -18391,7 +18391,7 @@ var markers = [
    "DOF": "0"
  },
  {
-   "LandlordRank": "64",
+   "Rank": "64",
    "BuildingID": "31495",
    "LandlordID": "4255",
    "Boro": "MANHATTAN",
@@ -18429,7 +18429,7 @@ var markers = [
    "DOF": "0"
  },
  {
-   "LandlordRank": "65",
+   "Rank": "65",
    "BuildingID": "221874",
    "LandlordID": "221874",
    "Boro": "BROOKLYN",
@@ -18467,7 +18467,7 @@ var markers = [
    "DOF": "2"
  },
  {
-   "LandlordRank": "65",
+   "Rank": "65",
    "BuildingID": "235237",
    "LandlordID": "221874",
    "Boro": "BROOKLYN",
@@ -18505,7 +18505,7 @@ var markers = [
    "DOF": "0"
  },
  {
-   "LandlordRank": "65",
+   "Rank": "65",
    "BuildingID": "296087",
    "LandlordID": "221874",
    "Boro": "BROOKLYN",
@@ -18543,7 +18543,7 @@ var markers = [
    "DOF": "0"
  },
  {
-   "LandlordRank": "65",
+   "Rank": "65",
    "BuildingID": "315520",
    "LandlordID": "221874",
    "Boro": "BROOKLYN",
@@ -18581,7 +18581,7 @@ var markers = [
    "DOF": "0"
  },
  {
-   "LandlordRank": "65",
+   "Rank": "65",
    "BuildingID": "808585",
    "LandlordID": "221874",
    "Boro": "BROOKLYN",
@@ -18619,7 +18619,7 @@ var markers = [
    "DOF": "0"
  },
  {
-   "LandlordRank": "66",
+   "Rank": "66",
    "BuildingID": "9534",
    "LandlordID": "9534",
    "Boro": "MANHATTAN",
@@ -18657,7 +18657,7 @@ var markers = [
    "DOF": "0"
  },
  {
-   "LandlordRank": "66",
+   "Rank": "66",
    "BuildingID": "19252",
    "LandlordID": "9534",
    "Boro": "MANHATTAN",
@@ -18695,7 +18695,7 @@ var markers = [
    "DOF": "0"
  },
  {
-   "LandlordRank": "66",
+   "Rank": "66",
    "BuildingID": "19254",
    "LandlordID": "9534",
    "Boro": "MANHATTAN",
@@ -18733,7 +18733,7 @@ var markers = [
    "DOF": "0"
  },
  {
-   "LandlordRank": "66",
+   "Rank": "66",
    "BuildingID": "19258",
    "LandlordID": "9534",
    "Boro": "MANHATTAN",
@@ -18771,7 +18771,7 @@ var markers = [
    "DOF": "0"
  },
  {
-   "LandlordRank": "66",
+   "Rank": "66",
    "BuildingID": "41668",
    "LandlordID": "9534",
    "Boro": "MANHATTAN",
@@ -18809,7 +18809,7 @@ var markers = [
    "DOF": "0"
  },
  {
-   "LandlordRank": "67",
+   "Rank": "67",
    "BuildingID": "12069",
    "LandlordID": "12069",
    "Boro": "MANHATTAN",
@@ -18847,7 +18847,7 @@ var markers = [
    "DOF": "0"
  },
  {
-   "LandlordRank": "67",
+   "Rank": "67",
    "BuildingID": "33214",
    "LandlordID": "12069",
    "Boro": "MANHATTAN",
@@ -18885,7 +18885,7 @@ var markers = [
    "DOF": "0"
  },
  {
-   "LandlordRank": "67",
+   "Rank": "67",
    "BuildingID": "33344",
    "LandlordID": "12069",
    "Boro": "MANHATTAN",
@@ -18923,7 +18923,7 @@ var markers = [
    "DOF": "0"
  },
  {
-   "LandlordRank": "67",
+   "Rank": "67",
    "BuildingID": "33345",
    "LandlordID": "12069",
    "Boro": "MANHATTAN",
@@ -18961,7 +18961,7 @@ var markers = [
    "DOF": "0"
  },
  {
-   "LandlordRank": "67",
+   "Rank": "67",
    "BuildingID": "705108",
    "LandlordID": "12069",
    "Boro": "QUEENS",
@@ -18999,7 +18999,7 @@ var markers = [
    "DOF": "0"
  },
  {
-   "LandlordRank": "68",
+   "Rank": "68",
    "BuildingID": "66764",
    "LandlordID": "66764",
    "Boro": "BRONX",
@@ -19037,7 +19037,7 @@ var markers = [
    "DOF": "0"
  },
  {
-   "LandlordRank": "68",
+   "Rank": "68",
    "BuildingID": "85940",
    "LandlordID": "66764",
    "Boro": "BRONX",
@@ -19075,7 +19075,7 @@ var markers = [
    "DOF": "0"
  },
  {
-   "LandlordRank": "68",
+   "Rank": "68",
    "BuildingID": "109770",
    "LandlordID": "66764",
    "Boro": "BRONX",
@@ -19113,7 +19113,7 @@ var markers = [
    "DOF": "0"
  },
  {
-   "LandlordRank": "68",
+   "Rank": "68",
    "BuildingID": "112736",
    "LandlordID": "66764",
    "Boro": "BRONX",
@@ -19151,7 +19151,7 @@ var markers = [
    "DOF": "0"
  },
  {
-   "LandlordRank": "68",
+   "Rank": "68",
    "BuildingID": "355164",
    "LandlordID": "66764",
    "Boro": "BROOKLYN",
@@ -19189,7 +19189,7 @@ var markers = [
    "DOF": "0"
  },
  {
-   "LandlordRank": "69",
+   "Rank": "69",
    "BuildingID": "23638",
    "LandlordID": "23638",
    "Boro": "MANHATTAN",
@@ -19227,7 +19227,7 @@ var markers = [
    "DOF": "0"
  },
  {
-   "LandlordRank": "69",
+   "Rank": "69",
    "BuildingID": "40028",
    "LandlordID": "23638",
    "Boro": "MANHATTAN",
@@ -19265,7 +19265,7 @@ var markers = [
    "DOF": "0"
  },
  {
-   "LandlordRank": "69",
+   "Rank": "69",
    "BuildingID": "40271",
    "LandlordID": "23638",
    "Boro": "MANHATTAN",
@@ -19303,7 +19303,7 @@ var markers = [
    "DOF": "0"
  },
  {
-   "LandlordRank": "69",
+   "Rank": "69",
    "BuildingID": "40670",
    "LandlordID": "23638",
    "Boro": "MANHATTAN",
@@ -19341,7 +19341,7 @@ var markers = [
    "DOF": "0"
  },
  {
-   "LandlordRank": "69",
+   "Rank": "69",
    "BuildingID": "40827",
    "LandlordID": "23638",
    "Boro": "MANHATTAN",
@@ -19379,7 +19379,7 @@ var markers = [
    "DOF": "0"
  },
  {
-   "LandlordRank": "69",
+   "Rank": "69",
    "BuildingID": "41060",
    "LandlordID": "23638",
    "Boro": "MANHATTAN",
@@ -19417,7 +19417,7 @@ var markers = [
    "DOF": "0"
  },
  {
-   "LandlordRank": "70",
+   "Rank": "70",
    "BuildingID": "67128",
    "LandlordID": "67128",
    "Boro": "BRONX",
@@ -19455,7 +19455,7 @@ var markers = [
    "DOF": "0"
  },
  {
-   "LandlordRank": "70",
+   "Rank": "70",
    "BuildingID": "215921",
    "LandlordID": "67128",
    "Boro": "BROOKLYN",
@@ -19493,7 +19493,7 @@ var markers = [
    "DOF": "0"
  },
  {
-   "LandlordRank": "70",
+   "Rank": "70",
    "BuildingID": "266026",
    "LandlordID": "67128",
    "Boro": "BROOKLYN",
@@ -19531,7 +19531,7 @@ var markers = [
    "DOF": "0"
  },
  {
-   "LandlordRank": "71",
+   "Rank": "71",
    "BuildingID": "27609",
    "LandlordID": "27609",
    "Boro": "MANHATTAN",
@@ -19569,7 +19569,7 @@ var markers = [
    "DOF": "0"
  },
  {
-   "LandlordRank": "71",
+   "Rank": "71",
    "BuildingID": "28024",
    "LandlordID": "27609",
    "Boro": "MANHATTAN",
@@ -19607,7 +19607,7 @@ var markers = [
    "DOF": "0"
  },
  {
-   "LandlordRank": "72",
+   "Rank": "72",
    "BuildingID": "42290",
    "LandlordID": "42290",
    "Boro": "MANHATTAN",
@@ -19645,7 +19645,7 @@ var markers = [
    "DOF": "0"
  },
  {
-   "LandlordRank": "72",
+   "Rank": "72",
    "BuildingID": "330347",
    "LandlordID": "42290",
    "Boro": "BROOKLYN",
@@ -19683,7 +19683,7 @@ var markers = [
    "DOF": "0"
  },
  {
-   "LandlordRank": "72",
+   "Rank": "72",
    "BuildingID": "330350",
    "LandlordID": "42290",
    "Boro": "BROOKLYN",
@@ -19721,7 +19721,7 @@ var markers = [
    "DOF": "0"
  },
  {
-   "LandlordRank": "72",
+   "Rank": "72",
    "BuildingID": "346948",
    "LandlordID": "42290",
    "Boro": "BROOKLYN",
@@ -19759,7 +19759,7 @@ var markers = [
    "DOF": "0"
  },
  {
-   "LandlordRank": "72",
+   "Rank": "72",
    "BuildingID": "346982",
    "LandlordID": "42290",
    "Boro": "BROOKLYN",
@@ -19797,7 +19797,7 @@ var markers = [
    "DOF": "0"
  },
  {
-   "LandlordRank": "72",
+   "Rank": "72",
    "BuildingID": "358352",
    "LandlordID": "42290",
    "Boro": "BROOKLYN",
@@ -19835,7 +19835,7 @@ var markers = [
    "DOF": "0"
  },
  {
-   "LandlordRank": "72",
+   "Rank": "72",
    "BuildingID": "360517",
    "LandlordID": "42290",
    "Boro": "BROOKLYN",
@@ -19873,7 +19873,7 @@ var markers = [
    "DOF": "0"
  },
  {
-   "LandlordRank": "72",
+   "Rank": "72",
    "BuildingID": "379351",
    "LandlordID": "42290",
    "Boro": "BROOKLYN",
@@ -19911,7 +19911,7 @@ var markers = [
    "DOF": "0"
  },
  {
-   "LandlordRank": "72",
+   "Rank": "72",
    "BuildingID": "379352",
    "LandlordID": "42290",
    "Boro": "BROOKLYN",
@@ -19949,7 +19949,7 @@ var markers = [
    "DOF": "0"
  },
  {
-   "LandlordRank": "73",
+   "Rank": "73",
    "BuildingID": "10394",
    "LandlordID": "10394",
    "Boro": "MANHATTAN",
@@ -19987,7 +19987,7 @@ var markers = [
    "DOF": "0"
  },
  {
-   "LandlordRank": "73",
+   "Rank": "73",
    "BuildingID": "33458",
    "LandlordID": "10394",
    "Boro": "MANHATTAN",
@@ -20025,7 +20025,7 @@ var markers = [
    "DOF": "0"
  },
  {
-   "LandlordRank": "73",
+   "Rank": "73",
    "BuildingID": "33460",
    "LandlordID": "10394",
    "Boro": "MANHATTAN",
@@ -20063,7 +20063,7 @@ var markers = [
    "DOF": "0"
  },
  {
-   "LandlordRank": "73",
+   "Rank": "73",
    "BuildingID": "33743",
    "LandlordID": "10394",
    "Boro": "MANHATTAN",
@@ -20101,7 +20101,7 @@ var markers = [
    "DOF": "0"
  },
  {
-   "LandlordRank": "73",
+   "Rank": "73",
    "BuildingID": "33892",
    "LandlordID": "10394",
    "Boro": "MANHATTAN",
@@ -20139,7 +20139,7 @@ var markers = [
    "DOF": "0"
  },
  {
-   "LandlordRank": "74",
+   "Rank": "74",
    "BuildingID": "197928",
    "LandlordID": "197928",
    "Boro": "BROOKLYN",
@@ -20177,7 +20177,7 @@ var markers = [
    "DOF": "0"
  },
  {
-   "LandlordRank": "74",
+   "Rank": "74",
    "BuildingID": "207205",
    "LandlordID": "197928",
    "Boro": "BROOKLYN",
@@ -20215,7 +20215,7 @@ var markers = [
    "DOF": "0"
  },
  {
-   "LandlordRank": "74",
+   "Rank": "74",
    "BuildingID": "288940",
    "LandlordID": "197928",
    "Boro": "BROOKLYN",
@@ -20253,7 +20253,7 @@ var markers = [
    "DOF": "0"
  },
  {
-   "LandlordRank": "74",
+   "Rank": "74",
    "BuildingID": "295601",
    "LandlordID": "197928",
    "Boro": "BROOKLYN",
@@ -20291,7 +20291,7 @@ var markers = [
    "DOF": "0"
  },
  {
-   "LandlordRank": "74",
+   "Rank": "74",
    "BuildingID": "306139",
    "LandlordID": "197928",
    "Boro": "BROOKLYN",
@@ -20329,7 +20329,7 @@ var markers = [
    "DOF": "0"
  },
  {
-   "LandlordRank": "74",
+   "Rank": "74",
    "BuildingID": "317308",
    "LandlordID": "197928",
    "Boro": "BROOKLYN",
@@ -20367,7 +20367,7 @@ var markers = [
    "DOF": "0"
  },
  {
-   "LandlordRank": "74",
+   "Rank": "74",
    "BuildingID": "325084",
    "LandlordID": "197928",
    "Boro": "BROOKLYN",
@@ -20405,7 +20405,7 @@ var markers = [
    "DOF": "0"
  },
  {
-   "LandlordRank": "74",
+   "Rank": "74",
    "BuildingID": "325129",
    "LandlordID": "197928",
    "Boro": "BROOKLYN",
@@ -20443,7 +20443,7 @@ var markers = [
    "DOF": "0"
  },
  {
-   "LandlordRank": "74",
+   "Rank": "74",
    "BuildingID": "332619",
    "LandlordID": "197928",
    "Boro": "BROOKLYN",
@@ -20481,7 +20481,7 @@ var markers = [
    "DOF": "0"
  },
  {
-   "LandlordRank": "74",
+   "Rank": "74",
    "BuildingID": "357424",
    "LandlordID": "197928",
    "Boro": "BROOKLYN",
@@ -20519,7 +20519,7 @@ var markers = [
    "DOF": "0"
  },
  {
-   "LandlordRank": "74",
+   "Rank": "74",
    "BuildingID": "808255",
    "LandlordID": "197928",
    "Boro": "BROOKLYN",
@@ -20557,7 +20557,7 @@ var markers = [
    "DOF": "0"
  },
  {
-   "LandlordRank": "75",
+   "Rank": "75",
    "BuildingID": "746071",
    "LandlordID": "746071",
    "Boro": "STATEN ISLAND",
@@ -20595,7 +20595,7 @@ var markers = [
    "DOF": "2"
  },
  {
-   "LandlordRank": "75",
+   "Rank": "75",
    "BuildingID": "784691",
    "LandlordID": "746071",
    "Boro": "STATEN ISLAND",
@@ -20633,7 +20633,7 @@ var markers = [
    "DOF": "0"
  },
  {
-   "LandlordRank": "75",
+   "Rank": "75",
    "BuildingID": "797473",
    "LandlordID": "746071",
    "Boro": "STATEN ISLAND",
@@ -20671,7 +20671,7 @@ var markers = [
    "DOF": "1"
  },
  {
-   "LandlordRank": "76",
+   "Rank": "76",
    "BuildingID": "67879",
    "LandlordID": "67879",
    "Boro": "BRONX",
@@ -20709,7 +20709,7 @@ var markers = [
    "DOF": "0"
  },
  {
-   "LandlordRank": "76",
+   "Rank": "76",
    "BuildingID": "103006",
    "LandlordID": "67879",
    "Boro": "BRONX",
@@ -20747,7 +20747,7 @@ var markers = [
    "DOF": "0"
  },
  {
-   "LandlordRank": "77",
+   "Rank": "77",
    "BuildingID": "302449",
    "LandlordID": "302449",
    "Boro": "BROOKLYN",
@@ -20785,7 +20785,7 @@ var markers = [
    "DOF": "0"
  },
  {
-   "LandlordRank": "77",
+   "Rank": "77",
    "BuildingID": "305384",
    "LandlordID": "302449",
    "Boro": "BROOKLYN",
@@ -20823,7 +20823,7 @@ var markers = [
    "DOF": "0"
  },
  {
-   "LandlordRank": "77",
+   "Rank": "77",
    "BuildingID": "322137",
    "LandlordID": "302449",
    "Boro": "BROOKLYN",
@@ -20861,7 +20861,7 @@ var markers = [
    "DOF": "0"
  },
  {
-   "LandlordRank": "77",
+   "Rank": "77",
    "BuildingID": "322138",
    "LandlordID": "302449",
    "Boro": "BROOKLYN",
@@ -20899,7 +20899,7 @@ var markers = [
    "DOF": "0"
  },
  {
-   "LandlordRank": "77",
+   "Rank": "77",
    "BuildingID": "322198",
    "LandlordID": "302449",
    "Boro": "BROOKLYN",
@@ -20937,7 +20937,7 @@ var markers = [
    "DOF": "0"
  },
  {
-   "LandlordRank": "77",
+   "Rank": "77",
    "BuildingID": "332612",
    "LandlordID": "302449",
    "Boro": "BROOKLYN",
@@ -20975,7 +20975,7 @@ var markers = [
    "DOF": "0"
  },
  {
-   "LandlordRank": "77",
+   "Rank": "77",
    "BuildingID": "346421",
    "LandlordID": "302449",
    "Boro": "BROOKLYN",
@@ -21013,7 +21013,7 @@ var markers = [
    "DOF": "0"
  },
  {
-   "LandlordRank": "78",
+   "Rank": "78",
    "BuildingID": "129024",
    "LandlordID": "129024",
    "Boro": "BROOKLYN",
@@ -21051,7 +21051,7 @@ var markers = [
    "DOF": "0"
  },
  {
-   "LandlordRank": "78",
+   "Rank": "78",
    "BuildingID": "133020",
    "LandlordID": "129024",
    "Boro": "BROOKLYN",
@@ -21089,7 +21089,7 @@ var markers = [
    "DOF": "0"
  },
  {
-   "LandlordRank": "78",
+   "Rank": "78",
    "BuildingID": "222893",
    "LandlordID": "129024",
    "Boro": "BROOKLYN",
@@ -21127,7 +21127,7 @@ var markers = [
    "DOF": "0"
  },
  {
-   "LandlordRank": "78",
+   "Rank": "78",
    "BuildingID": "309340",
    "LandlordID": "129024",
    "Boro": "BROOKLYN",
@@ -21165,7 +21165,7 @@ var markers = [
    "DOF": "0"
  },
  {
-   "LandlordRank": "78",
+   "Rank": "78",
    "BuildingID": "326920",
    "LandlordID": "129024",
    "Boro": "BROOKLYN",
@@ -21203,7 +21203,7 @@ var markers = [
    "DOF": "0"
  },
  {
-   "LandlordRank": "78",
+   "Rank": "78",
    "BuildingID": "351061",
    "LandlordID": "129024",
    "Boro": "BROOKLYN",
@@ -21241,7 +21241,7 @@ var markers = [
    "DOF": "0"
  },
  {
-   "LandlordRank": "78",
+   "Rank": "78",
    "BuildingID": "880492",
    "LandlordID": "129024",
    "Boro": "BROOKLYN",
@@ -21279,7 +21279,7 @@ var markers = [
    "DOF": "0"
  },
  {
-   "LandlordRank": "79",
+   "Rank": "79",
    "BuildingID": "104595",
    "LandlordID": "104595",
    "Boro": "BRONX",
@@ -21317,7 +21317,7 @@ var markers = [
    "DOF": "0"
  },
  {
-   "LandlordRank": "79",
+   "Rank": "79",
    "BuildingID": "313983",
    "LandlordID": "104595",
    "Boro": "BROOKLYN",
@@ -21355,7 +21355,7 @@ var markers = [
    "DOF": "0"
  },
  {
-   "LandlordRank": "80",
+   "Rank": "80",
    "BuildingID": "213137",
    "LandlordID": "213137",
    "Boro": "BROOKLYN",
@@ -21393,7 +21393,7 @@ var markers = [
    "DOF": "0"
  },
  {
-   "LandlordRank": "81",
+   "Rank": "81",
    "BuildingID": "5801",
    "LandlordID": "5801",
    "Boro": "MANHATTAN",
@@ -21431,7 +21431,7 @@ var markers = [
    "DOF": "0"
  },
  {
-   "LandlordRank": "81",
+   "Rank": "81",
    "BuildingID": "42959",
    "LandlordID": "5801",
    "Boro": "MANHATTAN",
@@ -21469,7 +21469,7 @@ var markers = [
    "DOF": "0"
  },
  {
-   "LandlordRank": "81",
+   "Rank": "81",
    "BuildingID": "43050",
    "LandlordID": "5801",
    "Boro": "MANHATTAN",
@@ -21507,7 +21507,7 @@ var markers = [
    "DOF": "0"
  },
  {
-   "LandlordRank": "82",
+   "Rank": "82",
    "BuildingID": "405",
    "LandlordID": "405",
    "Boro": "MANHATTAN",
@@ -21545,7 +21545,7 @@ var markers = [
    "DOF": "0"
  },
  {
-   "LandlordRank": "82",
+   "Rank": "82",
    "BuildingID": "19434",
    "LandlordID": "405",
    "Boro": "MANHATTAN",
@@ -21583,7 +21583,7 @@ var markers = [
    "DOF": "0"
  },
  {
-   "LandlordRank": "82",
+   "Rank": "82",
    "BuildingID": "19911",
    "LandlordID": "405",
    "Boro": "MANHATTAN",
@@ -21621,7 +21621,7 @@ var markers = [
    "DOF": "0"
  },
  {
-   "LandlordRank": "82",
+   "Rank": "82",
    "BuildingID": "24689",
    "LandlordID": "405",
    "Boro": "MANHATTAN",
@@ -21659,7 +21659,7 @@ var markers = [
    "DOF": "0"
  },
  {
-   "LandlordRank": "82",
+   "Rank": "82",
    "BuildingID": "30428",
    "LandlordID": "405",
    "Boro": "MANHATTAN",
@@ -21697,7 +21697,7 @@ var markers = [
    "DOF": "0"
  },
  {
-   "LandlordRank": "82",
+   "Rank": "82",
    "BuildingID": "30818",
    "LandlordID": "405",
    "Boro": "MANHATTAN",
@@ -21735,7 +21735,7 @@ var markers = [
    "DOF": "0"
  },
  {
-   "LandlordRank": "82",
+   "Rank": "82",
    "BuildingID": "37784",
    "LandlordID": "405",
    "Boro": "MANHATTAN",
@@ -21773,7 +21773,7 @@ var markers = [
    "DOF": "0"
  },
  {
-   "LandlordRank": "83",
+   "Rank": "83",
    "BuildingID": "276532",
    "LandlordID": "276532",
    "Boro": "BROOKLYN",
@@ -21811,7 +21811,7 @@ var markers = [
    "DOF": "0"
  },
  {
-   "LandlordRank": "83",
+   "Rank": "83",
    "BuildingID": "276536",
    "LandlordID": "276532",
    "Boro": "BROOKLYN",
@@ -21849,7 +21849,7 @@ var markers = [
    "DOF": "0"
  },
  {
-   "LandlordRank": "83",
+   "Rank": "83",
    "BuildingID": "279385",
    "LandlordID": "276532",
    "Boro": "BROOKLYN",
@@ -21887,7 +21887,7 @@ var markers = [
    "DOF": "0"
  },
  {
-   "LandlordRank": "83",
+   "Rank": "83",
    "BuildingID": "279387",
    "LandlordID": "276532",
    "Boro": "BROOKLYN",
@@ -21925,7 +21925,7 @@ var markers = [
    "DOF": "0"
  },
  {
-   "LandlordRank": "83",
+   "Rank": "83",
    "BuildingID": "279388",
    "LandlordID": "276532",
    "Boro": "BROOKLYN",
@@ -21963,7 +21963,7 @@ var markers = [
    "DOF": "0"
  },
  {
-   "LandlordRank": "83",
+   "Rank": "83",
    "BuildingID": "279390",
    "LandlordID": "276532",
    "Boro": "BROOKLYN",
@@ -22001,7 +22001,7 @@ var markers = [
    "DOF": "0"
  },
  {
-   "LandlordRank": "83",
+   "Rank": "83",
    "BuildingID": "279391",
    "LandlordID": "276532",
    "Boro": "BROOKLYN",
@@ -22039,7 +22039,7 @@ var markers = [
    "DOF": "0"
  },
  {
-   "LandlordRank": "83",
+   "Rank": "83",
    "BuildingID": "279393",
    "LandlordID": "276532",
    "Boro": "BROOKLYN",
@@ -22077,7 +22077,7 @@ var markers = [
    "DOF": "0"
  },
  {
-   "LandlordRank": "83",
+   "Rank": "83",
    "BuildingID": "279853",
    "LandlordID": "276532",
    "Boro": "BROOKLYN",
@@ -22115,7 +22115,7 @@ var markers = [
    "DOF": "0"
  },
  {
-   "LandlordRank": "84",
+   "Rank": "84",
    "BuildingID": "205704",
    "LandlordID": "205704",
    "Boro": "BROOKLYN",
@@ -22153,7 +22153,7 @@ var markers = [
    "DOF": "0"
  },
  {
-   "LandlordRank": "84",
+   "Rank": "84",
    "BuildingID": "222029",
    "LandlordID": "205704",
    "Boro": "BROOKLYN",
@@ -22191,7 +22191,7 @@ var markers = [
    "DOF": "0"
  },
  {
-   "LandlordRank": "84",
+   "Rank": "84",
    "BuildingID": "292675",
    "LandlordID": "205704",
    "Boro": "BROOKLYN",
@@ -22229,7 +22229,7 @@ var markers = [
    "DOF": "0"
  },
  {
-   "LandlordRank": "84",
+   "Rank": "84",
    "BuildingID": "345994",
    "LandlordID": "205704",
    "Boro": "BROOKLYN",
@@ -22267,7 +22267,7 @@ var markers = [
    "DOF": "0"
  },
  {
-   "LandlordRank": "84",
+   "Rank": "84",
    "BuildingID": "373034",
    "LandlordID": "205704",
    "Boro": "BROOKLYN",
@@ -22305,7 +22305,7 @@ var markers = [
    "DOF": "0"
  },
  {
-   "LandlordRank": "84",
+   "Rank": "84",
    "BuildingID": "943767",
    "LandlordID": "205704",
    "Boro": "BROOKLYN",
@@ -22343,7 +22343,7 @@ var markers = [
    "DOF": "0"
  },
  {
-   "LandlordRank": "85",
+   "Rank": "85",
    "BuildingID": "287547",
    "LandlordID": "287547",
    "Boro": "BROOKLYN",
@@ -22381,7 +22381,7 @@ var markers = [
    "DOF": "0"
  },
  {
-   "LandlordRank": "85",
+   "Rank": "85",
    "BuildingID": "287548",
    "LandlordID": "287547",
    "Boro": "BROOKLYN",
@@ -22419,7 +22419,7 @@ var markers = [
    "DOF": "0"
  },
  {
-   "LandlordRank": "85",
+   "Rank": "85",
    "BuildingID": "362432",
    "LandlordID": "287547",
    "Boro": "BROOKLYN",
@@ -22457,7 +22457,7 @@ var markers = [
    "DOF": "0"
  },
  {
-   "LandlordRank": "86",
+   "Rank": "86",
    "BuildingID": "8801",
    "LandlordID": "8801",
    "Boro": "MANHATTAN",
@@ -22495,7 +22495,7 @@ var markers = [
    "DOF": "0"
  },
  {
-   "LandlordRank": "86",
+   "Rank": "86",
    "BuildingID": "26890",
    "LandlordID": "8801",
    "Boro": "MANHATTAN",
@@ -22533,7 +22533,7 @@ var markers = [
    "DOF": "0"
  },
  {
-   "LandlordRank": "87",
+   "Rank": "87",
    "BuildingID": "5570",
    "LandlordID": "5570",
    "Boro": "MANHATTAN",
@@ -22571,7 +22571,7 @@ var markers = [
    "DOF": "0"
  },
  {
-   "LandlordRank": "87",
+   "Rank": "87",
    "BuildingID": "28061",
    "LandlordID": "5570",
    "Boro": "MANHATTAN",
@@ -22609,7 +22609,7 @@ var markers = [
    "DOF": "0"
  },
  {
-   "LandlordRank": "87",
+   "Rank": "87",
    "BuildingID": "33534",
    "LandlordID": "5570",
    "Boro": "MANHATTAN",
@@ -22647,7 +22647,7 @@ var markers = [
    "DOF": "0"
  },
  {
-   "LandlordRank": "88",
+   "Rank": "88",
    "BuildingID": "34791",
    "LandlordID": "34791",
    "Boro": "MANHATTAN",
@@ -22685,7 +22685,7 @@ var markers = [
    "DOF": "0"
  },
  {
-   "LandlordRank": "88",
+   "Rank": "88",
    "BuildingID": "35254",
    "LandlordID": "34791",
    "Boro": "MANHATTAN",
@@ -22723,7 +22723,7 @@ var markers = [
    "DOF": "0"
  },
  {
-   "LandlordRank": "88",
+   "Rank": "88",
    "BuildingID": "35313",
    "LandlordID": "34791",
    "Boro": "MANHATTAN",
@@ -22761,7 +22761,7 @@ var markers = [
    "DOF": "0"
  },
  {
-   "LandlordRank": "89",
+   "Rank": "89",
    "BuildingID": "46472",
    "LandlordID": "46472",
    "Boro": "BRONX",
@@ -22799,7 +22799,7 @@ var markers = [
    "DOF": "0"
  },
  {
-   "LandlordRank": "89",
+   "Rank": "89",
    "BuildingID": "101317",
    "LandlordID": "46472",
    "Boro": "BRONX",
@@ -22837,7 +22837,7 @@ var markers = [
    "DOF": "1"
  },
  {
-   "LandlordRank": "90",
+   "Rank": "90",
    "BuildingID": "27927",
    "LandlordID": "27927",
    "Boro": "MANHATTAN",
@@ -22875,7 +22875,7 @@ var markers = [
    "DOF": "0"
  },
  {
-   "LandlordRank": "90",
+   "Rank": "90",
    "BuildingID": "28040",
    "LandlordID": "27927",
    "Boro": "MANHATTAN",
@@ -22913,7 +22913,7 @@ var markers = [
    "DOF": "0"
  },
  {
-   "LandlordRank": "90",
+   "Rank": "90",
    "BuildingID": "28043",
    "LandlordID": "27927",
    "Boro": "MANHATTAN",
@@ -22951,7 +22951,7 @@ var markers = [
    "DOF": "0"
  },
  {
-   "LandlordRank": "91",
+   "Rank": "91",
    "BuildingID": "94284",
    "LandlordID": "94284",
    "Boro": "BRONX",
@@ -22989,7 +22989,7 @@ var markers = [
    "DOF": "0"
  },
  {
-   "LandlordRank": "91",
+   "Rank": "91",
    "BuildingID": "119044",
    "LandlordID": "94284",
    "Boro": "BRONX",
@@ -23027,7 +23027,7 @@ var markers = [
    "DOF": "0"
  },
  {
-   "LandlordRank": "92",
+   "Rank": "92",
    "BuildingID": "7141",
    "LandlordID": "7141",
    "Boro": "MANHATTAN",
@@ -23065,7 +23065,7 @@ var markers = [
    "DOF": "0"
  },
  {
-   "LandlordRank": "92",
+   "Rank": "92",
    "BuildingID": "305591",
    "LandlordID": "7141",
    "Boro": "BROOKLYN",
@@ -23103,7 +23103,7 @@ var markers = [
    "DOF": "0"
  },
  {
-   "LandlordRank": "92",
+   "Rank": "92",
    "BuildingID": "309217",
    "LandlordID": "7141",
    "Boro": "BROOKLYN",
@@ -23141,7 +23141,7 @@ var markers = [
    "DOF": "0"
  },
  {
-   "LandlordRank": "92",
+   "Rank": "92",
    "BuildingID": "333080",
    "LandlordID": "7141",
    "Boro": "BROOKLYN",
@@ -23179,7 +23179,7 @@ var markers = [
    "DOF": "0"
  },
  {
-   "LandlordRank": "93",
+   "Rank": "93",
    "BuildingID": "213832",
    "LandlordID": "213832",
    "Boro": "BROOKLYN",
@@ -23217,7 +23217,7 @@ var markers = [
    "DOF": "0"
  },
  {
-   "LandlordRank": "93",
+   "Rank": "93",
    "BuildingID": "321678",
    "LandlordID": "213832",
    "Boro": "BROOKLYN",
@@ -23255,7 +23255,7 @@ var markers = [
    "DOF": "0"
  },
  {
-   "LandlordRank": "93",
+   "Rank": "93",
    "BuildingID": "321766",
    "LandlordID": "213832",
    "Boro": "BROOKLYN",
@@ -23293,7 +23293,7 @@ var markers = [
    "DOF": "0"
  },
  {
-   "LandlordRank": "93",
+   "Rank": "93",
    "BuildingID": "322409",
    "LandlordID": "213832",
    "Boro": "BROOKLYN",
@@ -23331,7 +23331,7 @@ var markers = [
    "DOF": "0"
  },
  {
-   "LandlordRank": "93",
+   "Rank": "93",
    "BuildingID": "334864",
    "LandlordID": "213832",
    "Boro": "BROOKLYN",
@@ -23369,7 +23369,7 @@ var markers = [
    "DOF": "0"
  },
  {
-   "LandlordRank": "93",
+   "Rank": "93",
    "BuildingID": "357634",
    "LandlordID": "213832",
    "Boro": "BROOKLYN",
@@ -23407,7 +23407,7 @@ var markers = [
    "DOF": "0"
  },
  {
-   "LandlordRank": "93",
+   "Rank": "93",
    "BuildingID": "379262",
    "LandlordID": "213832",
    "Boro": "BROOKLYN",
@@ -23445,7 +23445,7 @@ var markers = [
    "DOF": "0"
  },
  {
-   "LandlordRank": "94",
+   "Rank": "94",
    "BuildingID": "806242",
    "LandlordID": "806242",
    "Boro": "BRONX",
@@ -23483,7 +23483,7 @@ var markers = [
    "DOF": "0"
  },
  {
-   "LandlordRank": "94",
+   "Rank": "94",
    "BuildingID": "806243",
    "LandlordID": "806242",
    "Boro": "BRONX",
@@ -23521,7 +23521,7 @@ var markers = [
    "DOF": "0"
  },
  {
-   "LandlordRank": "95",
+   "Rank": "95",
    "BuildingID": "296216",
    "LandlordID": "296216",
    "Boro": "BROOKLYN",
@@ -23559,7 +23559,7 @@ var markers = [
    "DOF": "0"
  },
  {
-   "LandlordRank": "95",
+   "Rank": "95",
    "BuildingID": "302922",
    "LandlordID": "296216",
    "Boro": "BROOKLYN",
@@ -23597,7 +23597,7 @@ var markers = [
    "DOF": "0"
  },
  {
-   "LandlordRank": "95",
+   "Rank": "95",
    "BuildingID": "302924",
    "LandlordID": "296216",
    "Boro": "BROOKLYN",
@@ -23635,7 +23635,7 @@ var markers = [
    "DOF": "0"
  },
  {
-   "LandlordRank": "95",
+   "Rank": "95",
    "BuildingID": "316213",
    "LandlordID": "296216",
    "Boro": "BROOKLYN",
@@ -23673,7 +23673,7 @@ var markers = [
    "DOF": "0"
  },
  {
-   "LandlordRank": "95",
+   "Rank": "95",
    "BuildingID": "331453",
    "LandlordID": "296216",
    "Boro": "BROOKLYN",
@@ -23711,7 +23711,7 @@ var markers = [
    "DOF": "0"
  },
  {
-   "LandlordRank": "95",
+   "Rank": "95",
    "BuildingID": "340373",
    "LandlordID": "296216",
    "Boro": "BROOKLYN",
@@ -23749,7 +23749,7 @@ var markers = [
    "DOF": "0"
  },
  {
-   "LandlordRank": "95",
+   "Rank": "95",
    "BuildingID": "340376",
    "LandlordID": "296216",
    "Boro": "BROOKLYN",
@@ -23787,7 +23787,7 @@ var markers = [
    "DOF": "0"
  },
  {
-   "LandlordRank": "95",
+   "Rank": "95",
    "BuildingID": "345439",
    "LandlordID": "296216",
    "Boro": "BROOKLYN",
@@ -23825,7 +23825,7 @@ var markers = [
    "DOF": "0"
  },
  {
-   "LandlordRank": "95",
+   "Rank": "95",
    "BuildingID": "345629",
    "LandlordID": "296216",
    "Boro": "BROOKLYN",
@@ -23863,7 +23863,7 @@ var markers = [
    "DOF": "0"
  },
  {
-   "LandlordRank": "95",
+   "Rank": "95",
    "BuildingID": "417034",
    "LandlordID": "296216",
    "Boro": "QUEENS",
@@ -23901,7 +23901,7 @@ var markers = [
    "DOF": "0"
  },
  {
-   "LandlordRank": "96",
+   "Rank": "96",
    "BuildingID": "21343",
    "LandlordID": "21343",
    "Boro": "MANHATTAN",
@@ -23939,7 +23939,7 @@ var markers = [
    "DOF": "0"
  },
  {
-   "LandlordRank": "96",
+   "Rank": "96",
    "BuildingID": "25402",
    "LandlordID": "21343",
    "Boro": "MANHATTAN",
@@ -23977,7 +23977,7 @@ var markers = [
    "DOF": "0"
  },
  {
-   "LandlordRank": "96",
+   "Rank": "96",
    "BuildingID": "26007",
    "LandlordID": "21343",
    "Boro": "MANHATTAN",
@@ -24015,7 +24015,7 @@ var markers = [
    "DOF": "0"
  },
  {
-   "LandlordRank": "96",
+   "Rank": "96",
    "BuildingID": "230032",
    "LandlordID": "21343",
    "Boro": "BROOKLYN",
@@ -24053,7 +24053,7 @@ var markers = [
    "DOF": "0"
  },
  {
-   "LandlordRank": "96",
+   "Rank": "96",
    "BuildingID": "396206",
    "LandlordID": "21343",
    "Boro": "BROOKLYN",
@@ -24091,7 +24091,7 @@ var markers = [
    "DOF": "0"
  },
  {
-   "LandlordRank": "96",
+   "Rank": "96",
    "BuildingID": "664057",
    "LandlordID": "21343",
    "Boro": "QUEENS",
@@ -24129,7 +24129,7 @@ var markers = [
    "DOF": "0"
  },
  {
-   "LandlordRank": "97",
+   "Rank": "97",
    "BuildingID": "306281",
    "LandlordID": "306281",
    "Boro": "BROOKLYN",
@@ -24167,7 +24167,7 @@ var markers = [
    "DOF": "0"
  },
  {
-   "LandlordRank": "98",
+   "Rank": "98",
    "BuildingID": "14229",
    "LandlordID": "14229",
    "Boro": "MANHATTAN",
@@ -24205,7 +24205,7 @@ var markers = [
    "DOF": "0"
  },
  {
-   "LandlordRank": "98",
+   "Rank": "98",
    "BuildingID": "33654",
    "LandlordID": "14229",
    "Boro": "MANHATTAN",
@@ -24243,7 +24243,7 @@ var markers = [
    "DOF": "0"
  },
  {
-   "LandlordRank": "98",
+   "Rank": "98",
    "BuildingID": "804423",
    "LandlordID": "14229",
    "Boro": "MANHATTAN",
@@ -24281,7 +24281,7 @@ var markers = [
    "DOF": "0"
  },
  {
-   "LandlordRank": "99",
+   "Rank": "99",
    "BuildingID": "23567",
    "LandlordID": "23567",
    "Boro": "MANHATTAN",
@@ -24319,7 +24319,7 @@ var markers = [
    "DOF": "0"
  },
  {
-   "LandlordRank": "99",
+   "Rank": "99",
    "BuildingID": "23651",
    "LandlordID": "23567",
    "Boro": "MANHATTAN",
@@ -24357,7 +24357,7 @@ var markers = [
    "DOF": "0"
  },
  {
-   "LandlordRank": "99",
+   "Rank": "99",
    "BuildingID": "287783",
    "LandlordID": "23567",
    "Boro": "BROOKLYN",
@@ -24395,7 +24395,7 @@ var markers = [
    "DOF": "0"
  },
  {
-   "LandlordRank": "100",
+   "Rank": "100",
    "BuildingID": "307327",
    "LandlordID": "307327",
    "Boro": "BROOKLYN",
@@ -24433,7 +24433,7 @@ var markers = [
    "DOF": "0"
  },
  {
-   "LandlordRank": "100",
+   "Rank": "100",
    "BuildingID": "339749",
    "LandlordID": "307327",
    "Boro": "BROOKLYN",
@@ -24471,7 +24471,7 @@ var markers = [
    "DOF": "0"
  },
  {
-   "LandlordRank": "100",
+   "Rank": "100",
    "BuildingID": "360571",
    "LandlordID": "307327",
    "Boro": "BROOKLYN",
@@ -24509,7 +24509,7 @@ var markers = [
    "DOF": "0"
  },
  {
-   "LandlordRank": "100",
+   "Rank": "100",
    "BuildingID": "376355",
    "LandlordID": "307327",
    "Boro": "BROOKLYN",
@@ -24547,7 +24547,7 @@ var markers = [
    "DOF": "1"
  },
  {
-   "LandlordRank": "100",
+   "Rank": "100",
    "BuildingID": "378816",
    "LandlordID": "307327",
    "Boro": "BROOKLYN",
@@ -24669,7 +24669,7 @@ if (markers[j].DOF > 0)
 	
 	
 		var url = 'https://maps.googleapis.com/maps/api/streetview?size=600x400&location=' + addstring + '%20&fov=90&pitch=0%20&key=AIzaSyCEdL7GSizXOkrhG1vJWSRro4wlyqo5kdU';
-		 box += '<div class="col-md-13"><div class="col-md-12-head"><headll>' + address + '</headll></div><div class="col-md-2"> <a href="map.html"><img class="img-responsive" alt="landlordmap" src="img/buildings/building' + (j+1) + '.jpeg"></a></div><div class="col-md-3"><div class="buildingRates"><span>' + Rank + '</span><span>' + name2 + '</span><span>' + org + '</span><span>' + units + '</span><span>' + hpd + '</span><span>' + dob + '</span><span>' + dof + '</span></div></div></div>';
+		 box += '<div class="col-md-13"><div class="col-md-12-head"><headll>' + address + '</headll></div><div class="col-md-2"> <a href="map.html"><img class="img-responsive" alt="landlordmap" src="' + url + '.jpeg"></a></div><div class="col-md-3"><div class="buildingRates"><span>' + Rank + '</span><span>' + name2 + '</span><span>' + org + '</span><span>' + units + '</span><span>' + hpd + '</span><span>' + dob + '</span><span>' + dof + '</span></div></div></div>';
 			
 		}
 	}
