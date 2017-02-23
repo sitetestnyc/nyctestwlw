@@ -9,7 +9,7 @@ var markers = [
    "StreetName": "SULLIVAN PLACE",
    "StreetCode": "83030",
    "Zip": "11225",
-   "Full Address": "245 SULLIVAN PLACE 11225",
+   "Full Adress": "245 SULLIVAN PLACE 11225",
    "Apartment": "",
    "Story": "0",
    "num": "488",
@@ -33,8 +33,7 @@ var markers = [
    "lat": "40.664871",
    "lng": "-73.9527054",
    "worstLandlord": "1",
-   "dof": "0",
-   "dof": "0"
+   "UNITS": "40"
  },
  {
    "BuildingID": "338110",
@@ -46,7 +45,7 @@ var markers = [
    "StreetName": "MILLER AVENUE",
    "StreetCode": "61030",
    "Zip": "11207",
-   "Full Address": "754 MILLER AVENUE 11207",
+   "Full Adress": "754 MILLER AVENUE 11207",
    "Apartment": "",
    "Story": "0",
    "num": "474",
@@ -70,45 +69,7 @@ var markers = [
    "lat": "40.662025",
    "lng": "-73.8881454",
    "worstLandlord": "1",
-   "dof": "0",
-   "dof": "0"
- },
- {
-   "BuildingID": "213137",
-   "LandlordID": "213137",
-   "Boro": "BROOKLYN",
-   "HouseNumber": "2906",
-   "LowHouseNumber": "2906",
-   "HighHouseNumber": "2912",
-   "StreetName": "BRIGHTON 12 STREET",
-   "StreetCode": "22480",
-   "Zip": "11235",
-   "Full Address": "2906 BRIGHTON 12 STREET 11235",
-   "Apartment": "2A",
-   "Story": "0",
-   "num": "341",
-   "a": "70",
-   "b": "251",
-   "c": "20",
-   "i": "0",
-   "dob": "19",
-   "BIN": "3245453",
-   "dob_hpd": "360",
-   "score": "2.03185",
-   "A_UNITS": "157",
-   "B_UNITS": "0",
-   "OWNER1": "BAY SHORE GARDENS OWNERS INC",
-   "ORGANIZATION": "BAY SHORE GARDENS OWNERS INC",
-   "OWNER1_LN": "PESOCHINSKY",
-   "OWNER1_FN": "YAKOV",
-   "officer": "YAKOV PESOCHINSKY",
-   "org": "BAY SHORE GARDENS OWNERS INC",
-   "exclude": "0",
-   "lat": "40.581882",
-   "lng": "-73.9556503",
-   "worstLandlord": "1",
-   "dof": "0",
-   "dof": "0"
+   "UNITS": "6"
  },
  {
    "BuildingID": "306281",
@@ -120,7 +81,7 @@ var markers = [
    "StreetName": "HALSEY STREET",
    "StreetCode": "46730",
    "Zip": "11233",
-   "Full Address": "827 HALSEY STREET 11233",
+   "Full Adress": "827 HALSEY STREET 11233",
    "Apartment": "",
    "Story": "0",
    "num": "318",
@@ -142,10 +103,9 @@ var markers = [
    "org": "",
    "exclude": "0",
    "lat": "40.685516",
-   "lng": "-73.919509",
+   "lng": "-73.9195099",
    "worstLandlord": "1",
-   "dof": "0",
-   "dof": "0"
+   "UNITS": "6"
  },
  {
    "BuildingID": "225110",
@@ -157,7 +117,7 @@ var markers = [
    "StreetName": "CONEY ISLAND AVENUE",
    "StreetCode": "28830",
    "Zip": "11235",
-   "Full Address": "3126 CONEY ISLAND AVENUE 11235",
+   "Full Adress": "3126 CONEY ISLAND AVENUE 11235",
    "Apartment": "",
    "Story": "0",
    "num": "308",
@@ -181,8 +141,7 @@ var markers = [
    "lat": "40.579655",
    "lng": "-73.9601135",
    "worstLandlord": "1",
-   "dof": "1",
-   "dof": "0"
+   "UNITS": "38"
  },
  {
    "BuildingID": "249288",
@@ -194,7 +153,7 @@ var markers = [
    "StreetName": "EAST 21 STREET",
    "StreetCode": "35730",
    "Zip": "11229",
-   "Full Address": "2249 EAST 21 STREET 11229",
+   "Full Adress": "2249 EAST 21 STREET 11229",
    "Apartment": "",
    "Story": "0",
    "num": "293",
@@ -202,10 +161,10 @@ var markers = [
    "b": "199",
    "c": "32",
    "i": "0",
-   "dob": "0",
+   "dob": "1",
    "BIN": "3199861",
-   "dob_hpd": "293",
-   "score": "5.14583",
+   "dob_hpd": "294",
+   "score": "5.1875",
    "A_UNITS": "48",
    "B_UNITS": "0",
    "OWNER1": "EAST 21 STREET REALTY LLC",
@@ -217,9 +176,8 @@ var markers = [
    "exclude": "0",
    "lat": "40.597648",
    "lng": "-73.949737",
-   "worstLandlord": "0",
-   "dof": "0",
-   "dof": "0"
+   "worstLandlord": "1",
+   "UNITS": "48"
  },
  {
    "BuildingID": "302318",
@@ -231,7 +189,7 @@ var markers = [
    "StreetName": "GRAND AVENUE",
    "StreetCode": "45030",
    "Zip": "11238",
-   "Full Address": "363 GRAND AVENUE 11238",
+   "Full Adress": "363 GRAND AVENUE 11238",
    "Apartment": "6-B",
    "Story": "6",
    "num": "284",
@@ -254,9 +212,8 @@ var markers = [
    "exclude": "0",
    "lat": "40.685135",
    "lng": "-73.9619217",
-   "worstLandlord": "0",
-   "dof": "0",
-   "dof": "0"
+   "worstLandlord": "1",
+   "UNITS": "36"
  },
  {
    "BuildingID": "324119",
@@ -268,7 +225,7 @@ var markers = [
    "StreetName": "LENOX ROAD",
    "StreetCode": "55330",
    "Zip": "11226",
-   "Full Address": "261 LENOX ROAD 11226",
+   "Full Adress": "261 LENOX ROAD 11226",
    "Apartment": "1A",
    "Story": "0",
    "num": "277",
@@ -292,8 +249,7 @@ var markers = [
    "lat": "40.654518",
    "lng": "-73.9508896",
    "worstLandlord": "1",
-   "dof": "0",
-   "dof": "1"
+   "UNITS": "120"
  },
  {
    "BuildingID": "326817",
@@ -305,7 +261,7 @@ var markers = [
    "StreetName": "LINCOLN ROAD",
    "StreetCode": "56130",
    "Zip": "11225",
-   "Full Address": "101 LINCOLN ROAD 11225",
+   "Full Adress": "101 LINCOLN ROAD 11225",
    "Apartment": "6E",
    "Story": "0",
    "num": "273",
@@ -313,10 +269,10 @@ var markers = [
    "b": "190",
    "c": "25",
    "i": "0",
-   "dob": "4",
+   "dob": "3",
    "BIN": "3035249",
-   "dob_hpd": "277",
-   "score": "2.83735",
+   "dob_hpd": "276",
+   "score": "2.81325",
    "A_UNITS": "83",
    "B_UNITS": "0",
    "OWNER1": "MARINE EQUITIES 101 LLC",
@@ -329,8 +285,7 @@ var markers = [
    "lat": "40.661255",
    "lng": "-73.9596024",
    "worstLandlord": "1",
-   "dof": "0",
-   "dof": "0"
+   "UNITS": "83"
  },
  {
    "BuildingID": "306728",
@@ -342,7 +297,7 @@ var markers = [
    "StreetName": "HANCOCK STREET",
    "StreetCode": "47030",
    "Zip": "11237",
-   "Full Address": "1351 HANCOCK STREET 11237",
+   "Full Adress": "1351 HANCOCK STREET 11237",
    "Apartment": "",
    "Story": "0",
    "num": "271",
@@ -365,46 +320,8 @@ var markers = [
    "exclude": "0",
    "lat": "40.694782",
    "lng": "-73.9090271",
-   "worstLandlord": "0",
-   "dof": "0",
-   "dof": "1"
- },
- {
-   "BuildingID": "287492",
-   "LandlordID": "287492",
-   "Boro": "BROOKLYN",
-   "HouseNumber": "1018",
-   "LowHouseNumber": "1018",
-   "HighHouseNumber": "1018",
-   "StreetName": "EASTERN PARKWAY",
-   "StreetCode": "38430",
-   "Zip": "11213",
-   "Full Address": "1018 EASTERN PARKWAY 11213",
-   "Apartment": "17L",
-   "Story": "0",
-   "num": "263",
-   "a": "33",
-   "b": "145",
-   "c": "81",
-   "i": "4",
-   "dob": "3",
-   "BIN": "3037516",
-   "dob_hpd": "266",
-   "score": "8.01471",
-   "A_UNITS": "34",
-   "B_UNITS": "0",
-   "OWNER1": "RIKUD REALTY INC.",
-   "ORGANIZATION": "RIKUD REALTY INC.",
-   "OWNER1_LN": "DUKLER",
-   "OWNER1_FN": "RUBIN",
-   "officer": "RUBIN DUKLER",
-   "org": "RIKUD REALTY INC.",
-   "exclude": "0",
-   "lat": "40.668533",
-   "lng": "-73.9346008",
    "worstLandlord": "1",
-   "dof": "0",
-   "dof": "0"
+   "UNITS": "6"
  },
  {
    "BuildingID": "367889",
@@ -416,7 +333,7 @@ var markers = [
    "StreetName": "SCHENECTADY AVENUE",
    "StreetCode": "75430",
    "Zip": "11213",
-   "Full Address": "232 SCHENECTADY AVENUE 11213",
+   "Full Adress": "232 SCHENECTADY AVENUE 11213",
    "Apartment": "4",
    "Story": "2",
    "num": "261",
@@ -440,8 +357,43 @@ var markers = [
    "lat": "40.671364",
    "lng": "-73.93396",
    "worstLandlord": "1",
-   "dof": "2",
-   "dof": "0"
+   "UNITS": "6"
+ },
+ {
+   "BuildingID": "287492",
+   "LandlordID": "287492",
+   "Boro": "BROOKLYN",
+   "HouseNumber": "1018",
+   "LowHouseNumber": "1018",
+   "HighHouseNumber": "1018",
+   "StreetName": "EASTERN PARKWAY",
+   "StreetCode": "38430",
+   "Zip": "11213",
+   "Full Adress": "1018 EASTERN PARKWAY 11213",
+   "Apartment": "17L",
+   "Story": "0",
+   "num": "263",
+   "a": "33",
+   "b": "145",
+   "c": "81",
+   "i": "4",
+   "dob": "0",
+   "BIN": "3037516",
+   "dob_hpd": "263",
+   "score": "7.83824",
+   "A_UNITS": "34",
+   "B_UNITS": "0",
+   "OWNER1": "RIKUD REALTY INC.",
+   "ORGANIZATION": "RIKUD REALTY INC.",
+   "OWNER1_LN": "DUKLER",
+   "OWNER1_FN": "RUBIN",
+   "officer": "RUBIN DUKLER",
+   "org": "RIKUD REALTY INC.",
+   "exclude": "0",
+   "lat": "40.668533",
+   "lng": "-73.9346008",
+   "worstLandlord": "1",
+   "UNITS": "34"
  },
  {
    "BuildingID": "307290",
@@ -453,7 +405,7 @@ var markers = [
    "StreetName": "HANCOCK STREET",
    "StreetCode": "47030",
    "Zip": "11233",
-   "Full Address": "668 HANCOCK STREET 11233",
+   "Full Adress": "668 HANCOCK STREET 11233",
    "Apartment": "",
    "Story": "0",
    "num": "256",
@@ -477,8 +429,7 @@ var markers = [
    "lat": "40.684746",
    "lng": "-73.9287491",
    "worstLandlord": "1",
-   "dof": "0",
-   "dof": "0"
+   "UNITS": "41"
  },
  {
    "BuildingID": "354021",
@@ -490,7 +441,7 @@ var markers = [
    "StreetName": "PITKIN AVENUE",
    "StreetCode": "70930",
    "Zip": "11212",
-   "Full Address": "1719 PITKIN AVENUE 11212",
+   "Full Adress": "1719 PITKIN AVENUE 11212",
    "Apartment": "2C",
    "Story": "2",
    "num": "254",
@@ -513,9 +464,8 @@ var markers = [
    "exclude": "0",
    "lat": "40.670086",
    "lng": "-73.9097137",
-   "worstLandlord": "0",
-   "dof": "1",
-   "dof": "0"
+   "worstLandlord": "1",
+   "UNITS": "12"
  },
  {
    "BuildingID": "220110",
@@ -527,7 +477,7 @@ var markers = [
    "StreetName": "CHURCH AVENUE",
    "StreetCode": "26230",
    "Zip": "11226",
-   "Full Address": "2017 CHURCH AVENUE 11226",
+   "Full Adress": "2017 CHURCH AVENUE 11226",
    "Apartment": "",
    "Story": "0",
    "num": "241",
@@ -551,8 +501,7 @@ var markers = [
    "lat": "40.650455",
    "lng": "-73.9602661",
    "worstLandlord": "1",
-   "dof": "0",
-   "dof": "0"
+   "UNITS": "38"
  },
  {
    "BuildingID": "183911",
@@ -564,7 +513,7 @@ var markers = [
    "StreetName": "ALBEMARLE ROAD",
    "StreetCode": "12330",
    "Zip": "11226",
-   "Full Address": "2005 ALBEMARLE ROAD 11226",
+   "Full Adress": "2005 ALBEMARLE ROAD 11226",
    "Apartment": "",
    "Story": "0",
    "num": "228",
@@ -572,10 +521,10 @@ var markers = [
    "b": "116",
    "c": "50",
    "i": "0",
-   "dob": "8",
+   "dob": "10",
    "BIN": "3117149",
-   "dob_hpd": "236",
-   "score": "3.83333",
+   "dob_hpd": "238",
+   "score": "3.90741",
    "A_UNITS": "54",
    "B_UNITS": "0",
    "OWNER1": "625 OCEAN COMPANY",
@@ -588,8 +537,7 @@ var markers = [
    "lat": "40.647575",
    "lng": "-73.9601746",
    "worstLandlord": "1",
-   "dof": "0",
-   "dof": "0"
+   "UNITS": "54"
  },
  {
    "BuildingID": "266747",
@@ -601,7 +549,7 @@ var markers = [
    "StreetName": "EAST 49 STREET",
    "StreetCode": "36980",
    "Zip": "11203",
-   "Full Address": "397 EAST 49 STREET 11203",
+   "Full Adress": "397 EAST 49 STREET 11203",
    "Apartment": "",
    "Story": "0",
    "num": "234",
@@ -624,9 +572,8 @@ var markers = [
    "exclude": "0",
    "lat": "40.652199",
    "lng": "-73.93116",
-   "worstLandlord": "0",
-   "dof": "1",
-   "dof": "0"
+   "worstLandlord": "1",
+   "UNITS": "34"
  },
  {
    "BuildingID": "203918",
@@ -638,7 +585,7 @@ var markers = [
    "StreetName": "BAY PARKWAY",
    "StreetCode": "17330",
    "Zip": "11214",
-   "Full Address": "8224 BAY PARKWAY 11214",
+   "Full Adress": "8224 BAY PARKWAY 11214",
    "Apartment": "2G",
    "Story": "0",
    "num": "225",
@@ -646,10 +593,10 @@ var markers = [
    "b": "145",
    "c": "25",
    "i": "1",
-   "dob": "1",
+   "dob": "2",
    "BIN": "3164766",
-   "dob_hpd": "226",
-   "score": "3.48113",
+   "dob_hpd": "227",
+   "score": "3.51887",
    "A_UNITS": "53",
    "B_UNITS": "0",
    "OWNER1": "8224 BAY PARKWAY LLC",
@@ -662,8 +609,7 @@ var markers = [
    "lat": "40.604007",
    "lng": "-73.992164",
    "worstLandlord": "1",
-   "dof": "0",
-   "dof": "0"
+   "UNITS": "53"
  },
  {
    "BuildingID": "396955",
@@ -675,7 +621,7 @@ var markers = [
    "StreetName": "WILSON AVENUE",
    "StreetCode": "93530",
    "Zip": "11221",
-   "Full Address": "504 WILSON AVENUE 11221",
+   "Full Adress": "504 WILSON AVENUE 11221",
    "Apartment": "2L",
    "Story": "2",
    "num": "224",
@@ -698,9 +644,8 @@ var markers = [
    "exclude": "0",
    "lat": "40.691898",
    "lng": "-73.9107437",
-   "worstLandlord": "0",
-   "dof": "0",
-   "dof": "0"
+   "worstLandlord": "",
+   "UNITS": "6"
  },
  {
    "BuildingID": "376447",
@@ -712,7 +657,7 @@ var markers = [
    "StreetName": "STERLING PLACE",
    "StreetCode": "81430",
    "Zip": "11213",
-   "Full Address": "1460 STERLING PLACE 11213",
+   "Full Adress": "1460 STERLING PLACE 11213",
    "Apartment": "",
    "Story": "0",
    "num": "223",
@@ -736,8 +681,43 @@ var markers = [
    "lat": "40.671192",
    "lng": "-73.9302216",
    "worstLandlord": "1",
-   "dof": "0",
-   "dof": "0"
+   "UNITS": "36"
+ },
+ {
+   "BuildingID": "230002",
+   "LandlordID": "230002",
+   "Boro": "BROOKLYN",
+   "HouseNumber": "1423",
+   "LowHouseNumber": "1423",
+   "HighHouseNumber": "1423",
+   "StreetName": "DE KALB AVENUE",
+   "StreetCode": "31530",
+   "Zip": "11237",
+   "Full Adress": "1423 DE KALB AVENUE 11237",
+   "Apartment": "",
+   "Story": "0",
+   "num": "218",
+   "a": "48",
+   "b": "130",
+   "c": "37",
+   "i": "3",
+   "dob": "5",
+   "BIN": "3073577",
+   "dob_hpd": "223",
+   "score": "32.5833",
+   "A_UNITS": "6",
+   "B_UNITS": "0",
+   "OWNER1": "UNITED VERNON LLC",
+   "ORGANIZATION": "UNITED VERNON LLC",
+   "OWNER1_LN": "MEHDIZADEH",
+   "OWNER1_FN": "MANSOUR",
+   "officer": "MANSOUR MEHDIZADEH",
+   "org": "UNITED VERNON LLC",
+   "exclude": "0",
+   "lat": "40.700302",
+   "lng": "-73.9235229",
+   "worstLandlord": "1",
+   "UNITS": "6"
  }
 ];
 var lat = "";
@@ -798,7 +778,7 @@ var replaced = "";
 	
 	
 		var url = 'https://maps.googleapis.com/maps/api/streetview?size=600x400&location=' + addstring + '%20&fov=90&pitch=0%20&key=AIzaSyCEdL7GSizXOkrhG1vJWSRro4wlyqo5kdU';
-	box += '<div class="col-md-13"><div class="col-md-12-head"><headll>' + address + '</headll></div><div class="col-md-2"> <a href="map.html"><img class="img-responsive" alt="landlordmap" src="img/brooklyn/brooklyn' + (j+1) + '.jpeg"></a></div><div class="col-md-3"><div class="buildingRates"><span>' + name2 + '</span><span>' + org + '</span><span>' + units + '</span><span>' + hpd + '</span><span>' + dob + '</span><span>' + dof + '</span></div></div></div>';
+	box += '<div class="col-md-13"><div class="col-md-12-head"><headll>' + address + '</headll></div><div class="col-md-2"> <a href="map.html"><img class="img-responsive" alt="landlordmap" src="' + url + '"></a></div><div class="col-md-3"><div class="buildingRates"><span>' + name2 + '</span><span>' + org + '</span><span>' + units + '</span><span>' + hpd + '</span><span>' + dob + '</span><span>' + dof + '</span></div></div></div>';
 			
 		
 	
